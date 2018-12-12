@@ -6,7 +6,7 @@ description: Clean, clear, and under control since '94
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.png
   address: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
