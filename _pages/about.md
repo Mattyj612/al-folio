@@ -5,7 +5,7 @@ title: <strong>Matthew Jordan</strong>
 description: Clean, clear, and under control since '94
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpeg
   address: >
 #    <p>555 your office number</p>
@@ -17,7 +17,7 @@ social: true
 ---
 
 Hello! This is my website. I haven't really made it yet. But here's some math!
-
+<div text-align:center>
 $$\oint_C \mathbf{F}\cdot \mathbf{dr} = \iint_S (\nabla \times \mathbf{F}) \cdot \mathbf{dA}.$$
-
+</div>
 Nice!
