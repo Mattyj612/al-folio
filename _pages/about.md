@@ -17,7 +17,7 @@ social: true
 ---
 
 Hello! This is my website. I haven't really made it yet. But here's some math!
-<div text-align:center>
+
 $$\oint_C \mathbf{F}\cdot \mathbf{dr} = \iint_S (\nabla \times \mathbf{F}) \cdot \mathbf{dA}.$$
-</div>
+
 Nice!
