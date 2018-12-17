@@ -4,6 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 social: true
+published: false
 ---
 
 {% for project in site.projects %}
@@ -16,7 +17,7 @@ social: true
         <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
-        {% endif %}    
+        {% endif %}
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
@@ -34,7 +35,7 @@ social: true
         <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
-        {% endif %}    
+        {% endif %}
         <span>
             <h1>{{ project.title }}</h1>
             <br/>

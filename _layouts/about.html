@@ -8,9 +8,9 @@ layout: default
 </header>
 
 {% if page.profile %}
-  <div class="center" style="padding-bottom:0px;padding-top:1px">
+  <div class="center">
     {% if page.profile.image %}
-      <img class="center" style="width:37.7%" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <img class="center" style="width:35.4%" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
     {% if page.profile.address %}
       <div class="address">
@@ -43,3 +43,6 @@ layout: default
 {% if page.news %}
   {% include news.html %}
 {% endif %}
+
+<div class="about-text" style="margin-bottom:-100px">
+</div>

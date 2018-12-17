@@ -5,6 +5,7 @@ title: publications
 description: Publications by categories in reversed chronological order. Gotta figure this out.
 years: [1956, 1950, 1935, 1905]
 social: true
+published: false
 
 # {% for y in page.years %}
 # <h3 class="year">{{y}}</h3>

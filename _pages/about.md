@@ -16,9 +16,13 @@ news: false
 social: true
 ---
 
-Hi there! I'm Matthew. Here's some math.
+I study the history and science of human thought, to understand how the heck
+anyone ever figured anything out. I'm midway through a Master's in the history of
+science at Oxford, researching AI in the '50s-'80s. I hold an
+<a href="https://osf.io/cvw8s/" target="_blank">MSc in experimental
+psychology</a> from Oxford, and I previously studied math & physics in McMaster University's
+ultra-interdisciplinary Arts & Science program. I also help run experiments that
+probe the nature of geometric intuitions at at NYU's
+<a href="https://www.labdevelopingmind.com" target="_blank"> Lab for the Developing Mind</a>.
 
-$$\displaystyle\oint_C \mathbf{F}\cdot \mathbf{dr} = \iint_S (\nabla \times \mathbf{F}) \cdot \mathbf{dA}$$
-
-<br>
-Nice!
+<!-- $$\displaystyle\oint_C \mathbf{F}\cdot \mathbf{dr} = \iint_S (\nabla \times \mathbf{F}) \cdot \mathbf{dA}$$ -->
