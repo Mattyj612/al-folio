@@ -2,17 +2,46 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <!-- <meta property="og:image" content="https://mattyj612.com/assets/img/prof_pic.png"/> -->
-  <meta property="og:site_name" content="Matthew Jordan"/>
-  <meta property="og:url" content="https://mattyj612.com"/>
-  <meta property="og:type" content="website"/>
-  <meta name="description" content="{{ page.description }}"/>
-  <meta name="og:title" content="{{ page.title }}"/>
-  <meta property="og:image" content="{{ site.baseurl }}/assets/img/prof_pic.png"/>
+  <meta property="og:site_name" content="{{ site.title }}"/>
+  {% if post.title %}
+    <meta property="og:title" content="{{ post.title }}"/>
+    <meta name="twitter:title" content="{{ post.title }}"/>
+  {% elsif page.title %}
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="twitter:title" content="{{ page.title }}"/>
+  {% else %}
+    <meta property="og:title" content="{{ site.title }}"/>
+    <meta property="twitter:title" content="{{ site.title }}"/>
+  {% endif %}
+  {% if page.title %}
+    <meta property="og:type" content="article">
+  {% else %}
+    <meta property="og:type" content="website">
+  {% endif %}
+  {% if post.description %}
+    <meta property="og:description" content="{{ post.description }}"/>
+    <meta property="twitter:description" content="{{ post.description }}"/>
+  {% elsif page.description %}
+    <meta property="og:description" content="{{ page.description }}"/>
+    <meta property="twitter:description" content="{{ page.description }}"/>
+  {% else %}
+    <meta property="og:description" content="{{ site.description }}"/>
+    <meta property="twitter:description" content="{{ site.description }}"/>
+  {% endif %}
+  {% if post.url %}
+    <meta property="og:url" content="{{ site.url }}{{ post.url }}"/>
+    <meta property="twitter:url" content="{{ site.url }}{{ post.url }}"/>
+  {% elsif page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}"/>
+  {% else %}
+    <meta property="og:url" content="https://mattyj612.com"/>
+    <meta property="twitter:url" content="https://mattyj612.com"/>
+  {% endif %}
+  <meta property="og:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
+  <meta name="twitter:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@mattyj612"/>
-  <meta name="twitter:title" content="{{ page.title }}"/>
-  <meta name="twitter:image" content="{{ site.baseurl }}/assets/img/prof_pic.png"/>
   <link rel="shortcut icon" href="{{ '/assets/img/favicon.jpeg' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

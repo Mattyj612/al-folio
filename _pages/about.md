@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Matthew Jordan</strong>
+title: Matthew Jordan
 description: #Clean, clear, and under control since '94
 
 profile:
