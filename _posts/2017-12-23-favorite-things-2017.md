@@ -4,6 +4,8 @@ title: My Favorite Things of 2017
 date: 2017-12-23 11:12:00-0400
 description: My favorite books, shows, albums, and more of 2017
 published: true
+profile:
+  image: {{ site.baseurl }}/assets/img/favorite-2017/come_from_away.jpg
 ---
 
 1. <a href="#Books" rel="noopener" data-mce-href="#Books">Books (read in 2017, not necessarily written in 2017)</a>
@@ -17,7 +19,7 @@ published: true
 <h4>(1) Steven Pinker – The Better Angels of Our Nature (2012)</h4>
 
 <div class="center-image">
-    <img src="https://straightfromthehood.files.wordpress.com/2017/12/better-angels.jpg" alt="" width="240" height="365" data-mce-src="https://straightfromthehood.files.wordpress.com/2017/12/better-angels.jpg?w=240">
+    <img src="https://straightfromthehood.files.wordpress.com/2017/12/better-angels.jpg" alt="" width="240" height="365">
 </div>
 
 *The Better Angels of Our Nature* is truly special. On the surface, it's a book about the history of violence. But it's also a deep dive into psychology, criminology, anthropology, policy, philosophy, morality, statistics, and data visualization. It's also a stunning example of how good writing can be a source of immense pleasure. Each sentence is somehow more rewarding than the last, and each paragraph packs an unprecedented punch.
