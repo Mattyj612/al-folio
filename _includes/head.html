@@ -3,10 +3,7 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   <meta property="og:site_name" content="{{ site.title }}"/>
-  {% if post.title %}
-    <meta property="og:title" content="{{ post.title }}"/>
-    <meta name="twitter:title" content="{{ post.title }}"/>
-  {% elsif page.title %}
+  {% if page.title %}
     <meta property="og:title" content="{{ page.title }}"/>
     <meta name="twitter:title" content="{{ page.title }}"/>
   {% else %}
@@ -14,18 +11,15 @@
     <meta name="twitter:title" content="{{ site.title }}"/>
   {% endif %}
   <meta property="og:type" content="article">
-  {% if post.description %}
-    <meta property="og:description" content="Matthew Jordan -- {{ post.description }}"/>
-    <meta name="twitter:description" content="Matthew Jordan -- {{ post.description }}"/>
-  {% elsif page.description %}
-    <meta property="og:description" content="{{ page.description }}"/>
-    <meta name="twitter:description" content="{{ page.description }}"/>
+  {% if page.description %}
+    <meta property="og:description" content="Matthew Jordan -- {{ page.description }}"/>
+    <meta name="twitter:description" content="Matthew Jordan -- {{ page.description }}"/>
   {% else %}
     <meta property="og:description" content="{{ site.description }}"/>
     <meta name="twitter:description" content="{{ site.description }}"/>
   {% endif %}
-  <meta property="og:url" content="https://mattyj612.com"/>
-  <meta property="twitter:url" content="https://mattyj612.com"/>
+  <meta property="og:url" content="{{ page.url }| prepend: site.url }}"/>
+  <meta name="twitter:url" content="https://mattyj612.com"/>
   <meta property="og:image" content="{{ '/assets/img/prof_pic.png' | prepend: site.url}}"/>
   <meta name="twitter:image" content="{{ '/assets/img/prof_pic.png' | prepend: site.url }}"/>
   <meta name="twitter:card" content="summary"/>
