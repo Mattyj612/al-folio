@@ -42,7 +42,7 @@ Incidentally, Chance the Rapper makes the exact same point in a commencement add
 
 ## Songs (alphabetically by artist)
 
-<ul>
+<ol>
   <li> Anderson .Paak -- Bubblin </li>
   <li> Ariana Grande -- Get Well Soon </li>
   <li> Cardi B -- I Like It </li>
@@ -66,15 +66,15 @@ Incidentally, Chance the Rapper makes the exact same point in a commencement add
   <li> Vulfpeck -- Darwin Derby </li>
   <li> Vulfpeck -- Soft Parade </li>
   <li> Vulfpeck -- The Cup Stacker </li>
-</ul>
+</ol>
 
 ## Songs Not From 2018
 
-<ul>
+<ol>
   <li> Daniel Caesar -- Best Part</li>
   <li> Rex Orange County -- Loving Is Easy </li>
   <li> Saint Motel -- My Type </li>
-</ul>
+</ol>
 
 Here's a Spotify playlist with all of these songs!
 
@@ -91,11 +91,12 @@ Here's a Spotify playlist with all of these songs!
 
 ## Podcasts
 
-<ul>
+<ol>
   <li> Waking Up With Sam Harris </li>
   <li> The Ezra Klein Show </li>
   <li> The Bill Simmons Podcast </li>
-</ul>
+  <li> In Our Time
+</ol>
 
 ## Other Stuff
 
