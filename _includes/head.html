@@ -4,24 +4,29 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   <meta property="og:site_name" content="{{ site.title }}"/>
   {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}"/>
-    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta property="og:title" content="{{ page.title }} — Matthew Jordan"/>
+    <meta name="twitter:title" content="{{ page.title }} — Matthew Jordan"/>
   {% else %}
     <meta property="og:title" content="{{ site.title }}"/>
     <meta name="twitter:title" content="{{ site.title }}"/>
   {% endif %}
   <meta property="og:type" content="article">
   {% if page.description %}
-    <meta property="og:description" content="Matthew Jordan -- {{ page.description }}"/>
-    <meta name="twitter:description" content="Matthew Jordan -- {{ page.description }}"/>
+    <meta property="og:description" content="{{ page.description }}"/>
+    <meta name="twitter:description" content="{{ page.description }}"/>
   {% else %}
     <meta property="og:description" content="{{ site.description }}"/>
     <meta name="twitter:description" content="{{ site.description }}"/>
   {% endif %}
   <meta property="og:url" content="{{ page.url | prepend: site.url }}"/>
-  <meta name="twitter:url" content="https://mattyj612.com"/>
-  <meta property="og:image" content="{{ '/assets/img/prof_pic.png' | prepend: site.url}}"/>
-  <meta name="twitter:image" content="{{ '/assets/img/prof_pic.png' | prepend: site.url }}"/>
+  <meta name="twitter:url" content="{{ page.url | prepend: site.url }}"/>
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}"/>
+    <meta name="twitter:image" content="{{ page.image }}"/>
+  {% else %}
+    <meta property="og:image" content="https://mattyj612.com/assets/img/prof_pic.png"/>
+    <meta name="twitter:image" content="https://mattyj612.com/assets/img/prof_pic.png"/>
+  {% endif %}
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@mattyj612"/>
   <link rel="shortcut icon" href="{{ '/assets/img/favicon.jpeg' | prepend: site.baseurl | prepend: site.url }}">
