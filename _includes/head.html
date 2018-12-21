@@ -19,8 +19,8 @@
     <meta property="og:type" content="website">
   {% endif %}
   {% if post.description %}
-    <meta property="og:description" content="{{ post.description }}"/>
-    <meta property="twitter:description" content="{{ post.description }}"/>
+    <meta property="og:description" content="Matthew Jordan -- {{ post.description }}"/>
+    <meta property="twitter:description" content="Matthew Jordan -- {{ post.description }}"/>
   {% elsif page.description %}
     <meta property="og:description" content="{{ page.description }}"/>
     <meta property="twitter:description" content="{{ page.description }}"/>
@@ -28,18 +28,10 @@
     <meta property="og:description" content="{{ site.description }}"/>
     <meta property="twitter:description" content="{{ site.description }}"/>
   {% endif %}
-  {% if post.url %}
-    <meta property="og:url" content="{{ site.url }}{{ post.url }}"/>
-    <meta property="twitter:url" content="{{ site.url }}{{ post.url }}"/>
-  {% elsif page.url %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}"/>
-  {% else %}
-    <meta property="og:url" content="https://mattyj612.com"/>
-    <meta property="twitter:url" content="https://mattyj612.com"/>
-  {% endif %}
-  <meta property="og:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
-  <meta name="twitter:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
+  <meta property="og:url" content="https://mattyj612.com"/>
+  <meta property="twitter:url" content="https://mattyj612.com"/>
+  <meta property="og:image" content="{{ 'assets/img/prof_pic.png' }}"/>
+  <meta name="twitter:image" content="{{ 'assets/img/prof_pic.png' }}"/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@mattyj612"/>
   <link rel="shortcut icon" href="{{ '/assets/img/favicon.jpeg' | prepend: site.baseurl | prepend: site.url }}">
