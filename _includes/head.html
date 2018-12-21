@@ -20,7 +20,7 @@
   {% endif %}
   <meta property="og:url" content="{{ page.url | prepend: site.url }}"/>
   <meta name="twitter:url" content="{{ page.url | prepend: site.url }}"/>
-  {% if page.profile.image %}
+  {% if page.image %}
     <meta property="og:image" content="{{ page.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}"/>
     <meta name="twitter:image" content="{{ page.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}"/>
   {% else %}
