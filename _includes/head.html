@@ -6,13 +6,13 @@
   <meta property="og:site_name" content="Matthew Jordan"/>
   <meta property="og:url" content="https://mattyj612.com"/>
   <meta property="og:type" content="website"/>
-  <meta name="description" content="Matthew Jordan"/>
-  <meta name="og:title" content="Matthew Jordan"/>
-  <meta property="og:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
+  <meta name="description" content="{{ page.description }}"/>
+  <meta name="og:title" content="{{ page.title }}"/>
+  <meta property="og:image" content="{{ site.baseurl }}/assets/img/prof_pic.png"/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@mattyj612"/>
-  <meta name="twitter:title" content="Matthew Jordan"/>
-  <meta name="twitter:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
+  <meta name="twitter:title" content="{{ page.title }}"/>
+  <meta name="twitter:image" content="{{ site.baseurl }}/assets/img/prof_pic.png"/>
   <link rel="shortcut icon" href="{{ '/assets/img/favicon.jpeg' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

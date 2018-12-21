@@ -490,6 +490,8 @@ figcaption { font-size: 0.875rem; }
 
 .caption { height: 100%; color: #aaa; text-align: center; vertical-align: middle; font-size: 12px; }
 
+.book { display: block; margin-left: auto; margin-right: auto; width: 240px; height: 340px; }
+
 .gist, .gist .highlight .p { font-size: .75rem; }
 
 .gist .lines { width: 100%; }

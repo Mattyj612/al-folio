@@ -3,24 +3,52 @@ layout: post
 title: My Favorite Things of 2018
 date: 2018-12-18 11:12:00-0400
 description: My favorite books, shows, albums, and more of 2018
-published: false
+published: true
 ---
+
+## Contents
+
+1\. <a href="#Books">Books (read in 2018)</a><br>
+2\. <a href="#Albums">Albums</a><br>
+3\. <a href="#Songs">Songs (from 2018)</a><br>
+4\. <a href="#OldSongs">Songs (not from 2018)</a><br>
+5\. <a href="#TV">TV Shows</a><br>
+6\. <a href="#Podcasts">Podcasts</a><br>
+7\. <a href="#Other">Other Stuff</a>
+
+<div id="Books" markdown="1">
 
 ## Books
 
-1. The Making of the Atomic Bomb by Richard Rhodes
-2. The Beginning of Infinity by David Detusch
-3. The Immortal Life of Henrietta Lacks by Rebecca Skloot
-4. The Lessons of Hisory by Will & Ariel Durant
+1\. Richard Rhodes -- The Making of the Atomic Bomb (1986)
+
+<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/atomic_bomb.jpg" title="atomic bomb">
+
+2\. David Deutsch -- The Beginning of Infinity (2011)
+
+<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/deutsch.jpg" title="beginning of infinity">
+
+3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)
+
+
+4\. Will & Ariel Durant -- The Lessons of Hisory (1968)
 
 Incidentally, Chance the Rapper makes the exact same point in a commencement address he gave earlier this year.
 
-5. Being Mortal by Atul Gawande
-6. The Story of Philosophy by Will Durant
-7. Down Girl by Kate Manne
-8. How The Hippies Saved Physics by David Kaiser
-9. Born Standing Up by Steve Martin
-10. When Breath Becomes Air by Paul Kalanithi
+5\. Atul Gawande -- Being Mortal (2014)
+6\. The Story of Philosophy by Will Durant
+7\. Kate Manne -- Down Girl by Kate Manne
+8\. David Kaiser -- How The Hippies Saved Physics by David Kaiser
+9\. Steve Martin -- Born Standing Up by Steve Martin
+10\. When Breath Becomes Air by Paul Kalanithi
+11\. Ta-Nehisi Coates -- We Were Eight Years In Power
+12\. Richard Feynman -- The Pleasure of Finding Things Out
+13\. Shoe Dog
+14\. Elon Musk
+
+</div>
+
+<div id="Albums" markdown="1">
 
 ## Albums
 
@@ -39,6 +67,10 @@ Incidentally, Chance the Rapper makes the exact same point in a commencement add
 
 11. Joey Dosik -- Inside Voice
 12. Janelle Monae -- Dirty Computer
+
+</div>
+
+<div id="Songs" markdown="1">
 
 ## Songs (alphabetically by artist)
 
@@ -67,6 +99,8 @@ Incidentally, Chance the Rapper makes the exact same point in a commencement add
   <li> Vulfpeck -- Soft Parade </li>
   <li> Vulfpeck -- The Cup Stacker </li>
 </ol>
+
+</div>
 
 ## Songs Not From 2018
 

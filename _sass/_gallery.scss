@@ -32,10 +32,19 @@ figcaption {
 .three {
     width: 100%;
 }
+
 .caption {
     height: 100%;
     color: $caption-color;
     text-align: center;
     vertical-align: middle;
     font-size: $caption-font-size;
+}
+
+.book{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:240px;
+  height:340px;
 }
