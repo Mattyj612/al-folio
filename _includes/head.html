@@ -8,25 +8,21 @@
     <meta name="twitter:title" content="{{ post.title }}"/>
   {% elsif page.title %}
     <meta property="og:title" content="{{ page.title }}"/>
-    <meta property="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
   {% else %}
     <meta property="og:title" content="{{ site.title }}"/>
-    <meta property="twitter:title" content="{{ site.title }}"/>
+    <meta name="twitter:title" content="{{ site.title }}"/>
   {% endif %}
-  {% if page.title %}
-    <meta property="og:type" content="article">
-  {% else %}
-    <meta property="og:type" content="website">
-  {% endif %}
+  <meta property="og:type" content="article">
   {% if post.description %}
     <meta property="og:description" content="Matthew Jordan -- {{ post.description }}"/>
-    <meta property="twitter:description" content="Matthew Jordan -- {{ post.description }}"/>
+    <meta name="twitter:description" content="Matthew Jordan -- {{ post.description }}"/>
   {% elsif page.description %}
     <meta property="og:description" content="{{ page.description }}"/>
-    <meta property="twitter:description" content="{{ page.description }}"/>
+    <meta name="twitter:description" content="{{ page.description }}"/>
   {% else %}
     <meta property="og:description" content="{{ site.description }}"/>
-    <meta property="twitter:description" content="{{ site.description }}"/>
+    <meta name="twitter:description" content="{{ site.description }}"/>
   {% endif %}
   <meta property="og:url" content="https://mattyj612.com"/>
   <meta property="twitter:url" content="https://mattyj612.com"/>
