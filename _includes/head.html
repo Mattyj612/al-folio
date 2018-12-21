@@ -30,8 +30,8 @@
   {% endif %}
   <meta property="og:url" content="https://mattyj612.com"/>
   <meta property="twitter:url" content="https://mattyj612.com"/>
-  <meta property="og:image" content="{{ 'assets/img/prof_pic.png' }}"/>
-  <meta name="twitter:image" content="{{ 'assets/img/prof_pic.png' }}"/>
+  <meta property="og:image" content="{{ '/assets/img/prof_pic.png' | prepent: site.url}}"/>
+  <meta name="twitter:image" content="{{ '/assets/img/prof_pic.png' | prepend: site.url }}"/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@mattyj612"/>
   <link rel="shortcut icon" href="{{ '/assets/img/favicon.jpeg' | prepend: site.baseurl | prepend: site.url }}">
