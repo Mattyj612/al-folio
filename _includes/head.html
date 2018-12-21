@@ -21,8 +21,8 @@
   <meta property="og:url" content="{{ page.url | prepend: site.url }}"/>
   <meta name="twitter:url" content="{{ page.url | prepend: site.url }}"/>
   {% if page.profile.image %}
-    <meta property="og:image" content="{{ page.profile.image }}"/>
-    <meta name="twitter:image" content="{{ page.profile.image }}"/>
+    <meta property="og:image" content="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}"/>
+    <meta name="twitter:image" content="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}"/>
   {% else %}
     <meta property="og:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
     <meta name="twitter:image" content="https://i.imgur.com/Yb4Jp0M.jpg"/>
