@@ -4,7 +4,7 @@ title: My Favorite Things of 2017
 date: 2017-12-23 11:12:00-0400
 description: My favorite books, shows, albums, and more of 2017
 published: true
-image: favorite-2017/come_from_away.jpeg
+image: favorite-2017/come_from_away.jpg
 ---
 
 1. <a href="#Books" rel="noopener" data-mce-href="#Books">Books (read in 2017, not necessarily written in 2017)</a>
