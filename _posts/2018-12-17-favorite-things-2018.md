@@ -4,9 +4,7 @@ title: My Favorite Things of 2018
 date: 2018-12-18 11:12:00-0400
 description: My favorite books, shows, albums, and more of 2018
 published: true
-
-profile:
-  image: /favorite-2018/atomic_bomb.jpg
+image: favorite-2018/atomic_bomb.jpg
 ---
 
 ## Contents
