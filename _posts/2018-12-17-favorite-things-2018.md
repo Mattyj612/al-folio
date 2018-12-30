@@ -166,7 +166,8 @@ every generation to follow.
 Incidentally, Chance the Rapper makes the exact same point in a commencement address
 he gave earlier this year.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15mbeCAF5to?start=1504" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15mbeCAF5to?start=1504"
+frameborder="0" align="middle" display="block" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 James Brown was revolutionary, but he lacked for inspiration
 something that we now have: the music of James Brown. Michael Jackson had James
@@ -205,7 +206,9 @@ bed...and then end up living longer anyway! An eye-opening, must-read book.
 It's a dang shame that Steve Martin's early comedy is relegated to the archives
 of stand-up history, because it's still unbelievably funny.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMAXuZOw_DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMAXuZOw_DY"
+frameborder="0" align="middle" display="block" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
 10\. When Breath Becomes Air by Paul Kalanithi
 
