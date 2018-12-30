@@ -27,7 +27,7 @@ semester, but now I'm reading (i.e. listening) constantly. Doing the dishes,
 folding laundry, walking to class, exercising; these are mere subsidiary tasks
 that facilitate more audiobook consumption.
 
-1\. Richard Rhodes -- The Making of the Atomic Bomb (1986)
+### 1\. Richard Rhodes -- The Making of the Atomic Bomb (1986)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/atomic_bomb.jpg" title="atomic bomb">
 
@@ -53,7 +53,7 @@ ethical complexities. If you like physics, 20th century history, warfare, long
 strings of adjectives, or sparkling and cinematic narrative prose, then this
 hugely concequential epic is a must-read.
 
-2\. David Deutsch -- The Beginning of Infinity (2011)
+### 2\. David Deutsch -- The Beginning of Infinity (2011)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/deutsch.jpg" title="beginning of infinity">
 
@@ -100,7 +100,7 @@ a quasar millions of light-years away.
 These are merely the high-level takeaways from a very dense and totally epic book. I'm
 currently reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
 
-3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)
+### 3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/henrietta.jpg" title="henrietta lacks">
 
@@ -123,7 +123,7 @@ story an integral part of the science education curriculum. No lesson on cancer 
 complete without a discussion of the fraught history of medical research and a serious
 reflection on bioethics.
 
-4\. Will & Ariel Durant -- The Lessons of Hisory (1968)
+### 4\. Will & Ariel Durant -- The Lessons of Hisory (1968)
 
 Two historians reflect on a lifetime of studying the past. The lessons of 100
 centuries distilled into 100 pages. Every paragraph is bursting with aphorisms,
@@ -167,7 +167,7 @@ Incidentally, Chance the Rapper makes the exact same point in a commencement add
 he gave earlier this year.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15mbeCAF5to?start=1504"
-frameborder="0" align="middle" display="block" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 James Brown was revolutionary, but he lacked for inspiration
 something that we now have: the music of James Brown. Michael Jackson had James
@@ -176,7 +176,7 @@ experienced the unthinkable: a childhood void of the music of Beyoncé. We get B
 and can continue to build on top of this massive cultural legacy. I find that to
 be pretty ding inspiring.
 
-5\. Atul Gawande -- Being Mortal (2014)
+### 5\. Atul Gawande -- Being Mortal (2014)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/being_mortal.jpg" title="being mortal">
 
@@ -187,19 +187,19 @@ become terminally ill, they reject the standard procedures, opting instead to li
 out their final days in comfort in hospice care, rather than stuck in a hospital
 bed...and then end up living longer anyway! An eye-opening, must-read book.
 
-6\. Kate Manne -- Down Girl (2017)
+### 6\. Kate Manne -- Down Girl (2017)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/down_girl.jpg" title="down girl">
 
-7\. David Kaiser -- How The Hippies Saved Physics by David Kaiser
+### 7\. David Kaiser -- How The Hippies Saved Physics by David Kaiser
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/hippies.jpg" title="how the hippies saved physics">
 
-8\. Will Durant -- The Story of Philosophy (1924)
+### 8\. Will Durant -- The Story of Philosophy (1924)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/philosophy.jpg" title="the story of philosophy">
 
-9\. Steve Martin -- Born Standing Up (2007)
+### 9\. Steve Martin -- Born Standing Up (2007)
 
 <img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/steve_martin.jpg" title="born standing up">
 
@@ -207,16 +207,16 @@ It's a dang shame that Steve Martin's early comedy is relegated to the archives
 of stand-up history, because it's still unbelievably funny.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eMAXuZOw_DY"
-frameborder="0" align="middle" display="block" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
-10\. When Breath Becomes Air by Paul Kalanithi
+### 10\. When Breath Becomes Air by Paul Kalanithi
 
-11\. Ta-Nehisi Coates -- We Were Eight Years In Power
+### 11\. Ta-Nehisi Coates -- We Were Eight Years In Power
 
-13\. Shoe Dog
+### 13\. Shoe Dog
 
-14\. Elon Musk
+### 14\. Elon Musk
 
 </div>
 
