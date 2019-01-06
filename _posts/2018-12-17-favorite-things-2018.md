@@ -5,6 +5,7 @@ date: 2018-12-18 11:12:00-0400
 description: My favorite books, shows, albums, and more of 2018
 published: true
 image: favorite-2018/atomic_bomb.jpg
+directory: /assets/img/favorite-2018
 ---
 
 ## Contents
@@ -27,9 +28,9 @@ semester, but now I'm reading (i.e. listening) constantly. Doing the dishes,
 folding laundry, walking to class, exercising; these are mere subsidiary tasks
 that facilitate more audiobook consumption.
 
-#### 1\. Richard Rhodes -- The Making of the Atomic Bomb (1986)
+#### **1\. Richard Rhodes -- The Making of the Atomic Bomb (1986)**
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/atomic_bomb.jpg" title="atomic bomb">
+<img class="book" src="{{ page.directory }}/atomic_bomb.jpg" title="atomic bomb">
 
 Undoubtedly one of the most important and awe-inspiring books I've ever read.
 It's been called "an epic worthy of Milton" and I agree. It paints intimate portraits
@@ -53,9 +54,9 @@ ethical complexities. If you like physics, 20th century history, warfare, long
 strings of adjectives, or sparkling and cinematic narrative prose, then this
 hugely concequential epic is a must-read.
 
-#### 2\. David Deutsch -- The Beginning of Infinity (2011)
+#### **2\. David Deutsch -- The Beginning of Infinity (2011)**
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/deutsch.jpg" title="beginning of infinity">
+<img class="book" src="{{ page.directory }}/deutsch.jpg" title="beginning of infinity">
 
 *The Beginning of Infinity* was a paradigm-shifting book for me. Deutsch systematically
 dismantles myths about science and philosophy, and erects in their place a truly
@@ -97,12 +98,12 @@ thing in the universe that is capable of generating representations of other par
 of the unvierse. We can simulate in our minds or on our computers the full goings-on of
 a quasar millions of light-years away.
 
-These are merely the high-level takeaways from a very dense and totally epic book. I'm
-currently reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
+These are merely the high-level takeaways from a very dense and totally epic book. I
+just finished reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
 
-#### 3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)
+#### **3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)**
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/henrietta.jpg" title="henrietta lacks">
+<img class="book" src="{{ page.directory }}/henrietta.jpg" title="henrietta lacks">
 
 Going in, I knew that *The Immortal Life Henrietta Lacks* would be a straightforward
 biography of Henrietta Lacks, whose infinitely-reproducing cancer cells were taken
@@ -123,7 +124,7 @@ story an integral part of the science education curriculum. No lesson on cancer 
 complete without a discussion of the fraught history of medical research and a serious
 reflection on bioethics.
 
-#### 4\. Will & Ariel Durant -- The Lessons of Hisory (1968)
+#### **4\. Will & Ariel Durant -- The Lessons of Hisory (1968)**
 
 Two historians reflect on a lifetime of studying the past. The lessons of 100
 centuries distilled into 100 pages. Every paragraph is bursting with aphorisms,
@@ -174,11 +175,11 @@ something that we now have: the music of James Brown. Michael Jackson had James
 Brown, but didn't have Michael Jackson. Beyoncé had Michael Jackson, but also
 experienced the unthinkable: a childhood void of the music of Beyoncé. We get Beyoncé,
 and can continue to build on top of this massive cultural legacy. I find that to
-be pretty ding inspiring.
+be pretty dang inspiring.
 
-#### 5\. Atul Gawande -- Being Mortal (2014)
+#### **5\. Atul Gawande -- Being Mortal (2014)**
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/being_mortal.jpg" title="being mortal">
+<img class="book" src="{{ page.directory }}/being_mortal.jpg" title="being mortal">
 
 When treating aging and dying patients, doctors are too focused on extending life,
 at the expense of enhancing and enriching it. The end of life should be dignified
@@ -187,28 +188,63 @@ become terminally ill, they reject the standard procedures, opting instead to li
 out their final days in comfort in hospice care, rather than stuck in a hospital
 bed...and then end up living longer anyway! An eye-opening, must-read book.
 
-#### 6\. Kate Manne -- Down Girl (2017)
+#### **6\. Kate Manne -- Down Girl (2017)**
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/down_girl.jpg" title="down girl">
+<img class="book" src="{{ page.directory }}/down_girl.jpg" title="down girl">
 
-#### 7\. David Kaiser -- How The Hippies Saved Physics by David Kaiser
+This is a dense, technically rigorous, meticulously argued philosophical treatise
+on misogyny. I learned a great deal. Manne argues that misogyny is not about men's
+hatred of women, per se, but rather about the attitudes and societal structures
+that keep women in a subservient position. Contrary to popular belief, men don't
+seek to deprive women of their humanity or personhood. The logic of misogyny
+is that women's humanity ought to be directed to the service of men.
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/hippies.jpg" title="how the hippies saved physics">
+There is a broader point here: when one group oppresses another, whether it be
+in the context of patriarchy, slavery, or genocide, it is not because
+they view the oppressed group as sub-human. You wouldn't be concerned if a sub-human
+entity shamed, humiliated, or betrayed you, nor would you seek to objectify, punish,
+or dominate them. As Manne says: "it's not a sense of a woman's humanity that is
+lacking. Her humanity is precisely the problem."
 
-#### 8\. Will Durant -- The Story of Philosophy (1924)
+For a brilliant summary, check out <a href="https://www.newyorker.com/magazine/2017/11/27/the-root-of-all-cruelty"
+target="_blank">this article from the psychologist Paul Bloom</a>, which is where I first heard about the book. *Down Girl*
+is a must read, especially for men, in order to understand social forces that we
+can't see, and often unknowingly perpetuate.
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/philosophy.jpg" title="the story of philosophy">
+#### **7\. David Kaiser -- How The Hippies Saved Physics (2011)**
 
-#### 9\. Steve Martin -- Born Standing Up (2007)
+<img class="book" src="{{ page.directory }}/hippies.jpg" title="how the hippies saved physics">
 
-<img class="book" src="{{ site.baseurl }}/assets/img/favorite-2018/steve_martin.jpg" title="born standing up">
+#### **8\. Will Durant -- The Story of Philosophy (1924)**
+
+<img class="book" src="{{ page.directory }}/philosophy.jpg" title="the story of philosophy">
+
+#### **9\. Steve Martin -- Born Standing Up (2007)**
+
+<img class="book" src="{{ page.directory }}/steve_martin.jpg" title="born standing up">
 
 It's a dang shame that Steve Martin's early comedy is relegated to the archives
-of stand-up history, because it's still unbelievably funny.
+of stand-up history, because it's still unbelievably funny. Listen, in full, to
+this song, from 1977. It feels absolutely timeless.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eMAXuZOw_DY"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
+
+If *Born Standing Up* makes anything clear, it's that Steve Martin worked his
+tuchus off to get to where he is. Becoming a successful comedian requres years
+and years of toil without recognition, dozens of bombed shows, countless hours
+of workshopping material, and a refusal to ever become complacent. Only then can
+you craft one-liners like these:
+
+<blockquote>New research suggests that more Americans watch television than any
+other appliance.</blockquote>
+
+<blockquote>I’ve been your friend for a while, and I think I can ask you this
+question: What time is it?</blockquote>
+
+The book is read by Steve Martin himself, and hearing his old material in his own
+voice is such a treat.
 
 #### 10\. When Breath Becomes Air by Paul Kalanithi
 
@@ -224,16 +260,28 @@ allowfullscreen></iframe>
 
 ## Albums
 
-1. Vulfpeck -- Hill Climber
-2. Lawrence -- Living Room
-3. Ariana Grande -- Sweetner
-4. Tom Misch -- Geography
-5. The Fearles Flyers -- The Fearless Flyers
-6. Pusha T -- Daytona
-7. Cory Wong -- The Optimist
-8. Kanye West & Kid Cudi -- Kids See Ghosts
-9. Bahamas -- Earthtones
-10. Cardi B -- Invasion of Privacy
+<img class="album" src="{{ page.directory }}/vulfpeck.jpg" title="hill climber">
+1\. Vulfpeck -- Hill Climber
+
+<img class="album" src="{{ page.directory }}/lawrence.jpg" title="living room">
+2\. Lawrence -- Living Room
+
+<img class="album" src="{{ page.directory }}/sweetner.jpg" title="sweetner">
+3\. Ariana Grande -- Sweetner
+
+4\. Tom Misch -- Geography
+
+5\. The Fearles Flyers -- The Fearless Flyers
+
+6\. Pusha T -- Daytona
+
+7\. Cory Wong -- The Optimist
+
+8\. Kanye West & Kid Cudi -- Kids See Ghosts
+
+9\. Bahamas -- Earthtones
+
+10\. Cardi B -- Invasion of Privacy
 
 ### Honorable Mentions
 
@@ -302,14 +350,16 @@ Here's a Spotify playlist with all of these songs, and more!
   <li> The Ezra Klein Show </li>
   <li> The Bill Simmons Podcast </li>
   <li> In Our Time
+  <li> Caliphate </li>
 </ol>
 
 
 ## Stand-Up Comedy Specials
-Nanette
-Ellen DeGeneres
-Demitri Martin
-Standup for Drummers
+
+Hannah Gadsby - Nanette
+Ellen DeGeneres - Relatable
+Demitri Martin - The Overthinker
+Fred Armisen - Standup for Drummers
 
 
 ## Other Stuff
@@ -327,3 +377,5 @@ Standup for Drummers
 ### Edinburgh Fringe Festival
 
 ### Emailing Your Heroes
+
+### Veganism
