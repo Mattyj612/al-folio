@@ -237,6 +237,8 @@ the late '60s and early '70s: moving to California and joining the countercultur
 This is backdrop against *How The Hippies Saved Physics* is set, and it only gets
 more interesting from there.
 
+
+
 #### **8\. Will Durant -- The Story of Philosophy (1924)**
 
 <img class="book" src="{{ page.directory }}/philosophy.jpg" title="the story of philosophy">
@@ -291,33 +293,33 @@ voice is such a treat.
 <img class="album" src="{{ page.directory }}/sweetner.jpg" title="sweetner">
 3\. Ariana Grande -- Sweetener
 
-<img class="abum" src="{{ page.directory }}/geography.jpg" title="geography">
+<img class="album" src="{{ page.directory }}/geography.jpg" title="geography">
 4\. Tom Misch -- Geography
 
-<img class="abum" src="{{ page.directory }}/fearless.jpg" title="fearless">
+<img class="album" src="{{ page.directory }}/fearless.jpg" title="fearless">
 5\. The Fearles Flyers -- The Fearless Flyers
 
-<img class="abum" src="{{ page.directory }}/daytona.jpg" title="daytona">
+<img class="album" src="{{ page.directory }}/daytona.jpg" title="daytona">
 6\. Pusha T -- Daytona
 
-<img class="abum" src="{{ page.directory }}/optimist.jpg" title="optimist">
+<img class="album" src="{{ page.directory }}/optimist.jpg" title="optimist">
 7\. Cory Wong -- The Optimist
 
 <img class="abum" src="{{ page.directory }}/kids_see_ghosts.jpg" title="kids see ghosts">
 8\. Kanye West & Kid Cudi -- Kids See Ghosts
 
-<img class="abum" src="{{ page.directory }}/earthtones.jpg" title="earthtones">
+<img class="album" src="{{ page.directory }}/earthtones.jpg" title="earthtones">
 9\. Bahamas -- Earthtones
 
-<img class="abum" src="{{ page.directory }}/privacy.jpg" title="privacy">
+<img class="album" src="{{ page.directory }}/privacy.jpg" title="privacy">
 10\. Cardi B -- Invasion of Privacy
 
 ### Honorable Mentions
 
-<img class="abum" src="{{ page.directory }}/inside_voice.jpg" title="inside voice">
+<img class="album" src="{{ page.directory }}/inside_voice.jpg" title="inside voice">
 11. Joey Dosik -- Inside Voice
 
-<img class="abum" src="{{ page.directory }}/dirty_computer.jpg" title="dirty computer">
+<img class="album" src="{{ page.directory }}/dirty_computer.jpg" title="dirty computer">
 12. Janelle Monae -- Dirty Computer
 
 </div>
@@ -382,7 +384,7 @@ Here's a Spotify playlist with all of these songs, and more!
 4. A Star Is Born
 5. Vice
 
-## Favorite Podcast Episodes
+## Podcast Episodes
 
 * Waking Up With Sam Harris
 * The Ezra Klein Show
