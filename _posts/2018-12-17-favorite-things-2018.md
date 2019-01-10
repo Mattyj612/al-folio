@@ -52,7 +52,7 @@ learning about WWII, the Nazis get the most airtime. That's kinda silly. There w
 a whole other war going on in the Pacific, with its own gigantic historical and
 ethical complexities. If you like physics, 20th century history, warfare, long
 strings of adjectives, or sparkling and cinematic narrative prose, then this
-hugely concequential epic is a must-read.
+hugely concequential tome is unmissable.
 
 #### **2\. David Deutsch -- The Beginning of Infinity (2011)**
 
@@ -98,8 +98,8 @@ thing in the universe that is capable of generating representations of other par
 of the unvierse. We can simulate in our minds or on our computers the full goings-on of
 a quasar millions of light-years away.
 
-These are merely the high-level takeaways from a very dense and totally epic book. I
-just finished reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
+These are merely the high-level takeaways from a very dense and totally thought-proviking
+book. I just finished reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
 
 #### **3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)**
 
@@ -181,12 +181,23 @@ be pretty dang inspiring.
 
 <img class="book" src="{{ page.directory }}/being_mortal.jpg" title="being mortal">
 
-When treating aging and dying patients, doctors are too focused on extending life,
-at the expense of enhancing and enriching it. The end of life should be dignified
-and meaningful, not isolating and dispiriting. Paradoxically, when doctors themselves
-become terminally ill, they reject the standard procedures, opting instead to live
-out their final days in comfort in hospice care, rather than stuck in a hospital
-bed...and then end up living longer anyway! An eye-opening, must-read book.
+Our current approach to end-of-life care is whack. When a patient is diagnosed with
+a terminal illness, doctors instinctually try extend their life no matter the cost,
+and often no matter the wishes and priorities of the patient. Invasive surgeries,
+unpleasant therapies, buckets of medication, life in a hospital with no friends or family,
+and huge medical expenses are a routine part of end-of-life care. And even if
+these procedures are successful, there's an information asymmetry at play. Terminally
+ill patients think they're gaining decades of life; doctors knows they're only being
+spared months. This over-medicalization of death forgets that the end of life should
+be dignified and meaningful, not isolating and dispiriting.
+
+And what's even crazier, this over-medicalization might not even be the most effective way to
+extend life at all! When doctors themselves become terminally ill, they reject the standard
+procedures, opting instead to live out their final days in comfort in hospice care,
+rather than stuck in a hospital bed...and then end up living longer anyway!
+
+In a world with an increasingly aging population, *Being Mortal* is an eye-opening,
+must-read book.
 
 #### **6\. Kate Manne -- Down Girl (2017)**
 
@@ -214,6 +225,17 @@ can't see, and often unknowingly perpetuate.
 #### **7\. David Kaiser -- How The Hippies Saved Physics (2011)**
 
 <img class="book" src="{{ page.directory }}/hippies.jpg" title="how the hippies saved physics">
+
+After World War II, the US government, especially the Department of Defence made
+huge investments in physics research, since physicists had played a huge role in
+the war (see *The Making of the Atomic Bomb*!). Physicists were tasked with building
+on the success (scientifically, not ethically speaking) of the bomb. In the late '60s
+and early '70s, however, as the threat of the Cold War began to wane, this funding
+and fervor subsided, leaving huge numbers of PhD students without job prospects. A
+sizeable chunk of these newly unemployed students did what many people were doing in
+the late '60s and early '70s: moving to California and joining the counterculture revolution.
+This is backdrop against *How The Hippies Saved Physics* is set, and it only gets
+more interesting from there.
 
 #### **8\. Will Durant -- The Story of Philosophy (1924)**
 
@@ -267,25 +289,35 @@ voice is such a treat.
 2\. Lawrence -- Living Room
 
 <img class="album" src="{{ page.directory }}/sweetner.jpg" title="sweetner">
-3\. Ariana Grande -- Sweetner
+3\. Ariana Grande -- Sweetener
 
+<img class="abum" src="{{ page.directory }}/geography.jpg" title="geography">
 4\. Tom Misch -- Geography
 
+<img class="abum" src="{{ page.directory }}/fearless.jpg" title="fearless">
 5\. The Fearles Flyers -- The Fearless Flyers
 
+<img class="abum" src="{{ page.directory }}/daytona.jpg" title="daytona">
 6\. Pusha T -- Daytona
 
+<img class="abum" src="{{ page.directory }}/optimist.jpg" title="optimist">
 7\. Cory Wong -- The Optimist
 
+<img class="abum" src="{{ page.directory }}/kids_see_ghosts.jpg" title="kids see ghosts">
 8\. Kanye West & Kid Cudi -- Kids See Ghosts
 
+<img class="abum" src="{{ page.directory }}/earthtones.jpg" title="earthtones">
 9\. Bahamas -- Earthtones
 
+<img class="abum" src="{{ page.directory }}/privacy.jpg" title="privacy">
 10\. Cardi B -- Invasion of Privacy
 
 ### Honorable Mentions
 
+<img class="abum" src="{{ page.directory }}/inside_voice.jpg" title="inside voice">
 11. Joey Dosik -- Inside Voice
+
+<img class="abum" src="{{ page.directory }}/dirty_computer.jpg" title="dirty computer">
 12. Janelle Monae -- Dirty Computer
 
 </div>
@@ -294,7 +326,7 @@ voice is such a treat.
 
 ## Songs (alphabetically by artist)
 
-<ol>
+<ul>
   <li> Anderson .Paak -- Bubblin </li>
   <li> Ariana Grande -- Get Well Soon </li>
   <li> Cardi B -- I Like It </li>
@@ -314,18 +346,18 @@ voice is such a treat.
   <li> Scary Pockets -- Jamirobeegees Mashup </li>
   <li> Scary Pockets -- Rolling In The Deep </li>
   <li> Tom Misch -- Movie </li>
-  <li> Vulfpeck -- Half of the Way </li>
+  <li> Vulfpeck -- Half Of The Way </li>
   <li> Vulfpeck -- Darwin Derby </li>
   <li> Vulfpeck -- Soft Parade </li>
   <li> Vulfpeck -- The Cup Stacker </li>
-</ol>
+</ul>
 
 </div>
 
 ## Songs Not From 2018
 
 <ol>
-  <li> Daniel Caesar -- Best Part</li>
+  <li> Daniel Caesar -- Best Part </li>
   <li> Rex Orange County -- Loving Is Easy </li>
   <li> Saint Motel -- My Type </li>
 </ol>
@@ -334,32 +366,41 @@ Here's a Spotify playlist with all of these songs, and more!
 
 ## TV Shows (watched in 2018)
 
-1. The Good Place
-2. American Crime Story: OJ Simpson
-3. Atlanta: Robbin' Season
-4. Curb Your Enthusiasm, Season 9
-5. Better Call Saul
-6. OJ: Made In America
-7. Fawlty Towers
+* The Good Place
+* Atlanta: Robbin' Season
+* Curb Your Enthusiasm, Season 9
+* Better Call Saul
+* OJ: Made In America
+* American Crime Story: OJ Simpson
+* Fawlty Towers
+
+## Movies
+
+1. Spiderman: Into The Spider-Verse
+2. Black Panther
+3. Blakkklansman
+4. A Star Is Born
+5. Vice
+
+## Favorite Podcast Episodes
+
+* Waking Up With Sam Harris
+* The Ezra Klein Show
+* The Bill Simmons Podcast
+* In Our Time
+* Caliphate
 
 
-## Podcasts
+## Stand-Up Comedy Specials (alphabetically)
 
-<ol>
-  <li> Waking Up With Sam Harris </li>
-  <li> The Ezra Klein Show </li>
-  <li> The Bill Simmons Podcast </li>
-  <li> In Our Time
-  <li> Caliphate </li>
-</ol>
+<ul>
+  <li> Fred Armisen -- Standup for Drummers </li>
+  <li> Ellen DeGeneres -- Relatable </li>
+  <li> Hannah Gadsby -- Nanette </li>
+  <li> Demitri Martin -- The Overthinker </li>
+  <li> John Mulaney -- Kid Gorgeous </li>
+</ul>
 
-
-## Stand-Up Comedy Specials
-
-Hannah Gadsby - Nanette
-Ellen DeGeneres - Relatable
-Demitri Martin - The Overthinker
-Fred Armisen - Standup for Drummers
 
 
 ## Other Stuff
