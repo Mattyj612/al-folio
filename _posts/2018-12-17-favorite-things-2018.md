@@ -52,7 +52,7 @@ learning about WWII, the Nazis get the most airtime. That's kinda silly. There w
 a whole other war going on in the Pacific, with its own gigantic historical and
 ethical complexities. If you like physics, 20th century history, warfare, long
 strings of adjectives, or sparkling and cinematic narrative prose, then this
-hugely concequential tome is unmissable.
+hugely consequential tome is unmissable.
 
 #### **2\. David Deutsch -- The Beginning of Infinity (2011)**
 
@@ -66,7 +66,7 @@ Stable and lasting progress arises from the search for **good explanations**. A 
 explanation must be **hard to vary**, in the sense that slightly altering any of
 its assumptions would dramatically alter its predictions. Good Explanations have
 **universal reach**, since they can be used to understand things we might never
-see. General relativiy and quantum mechanics allow us to reason about black holes
+see. General relativity and quantum mechanics allow us to reason about black holes
 and the big bang, while natural selection allows us to think about extinct species
 from millions of years ago. Explanations improve by conjecture and refutation: when
 a new theory is proposed, we can use evidence to knock it down---whichever theory
@@ -95,10 +95,10 @@ The first idea is false because humans (i.e. "chemical scum") are incredibly aty
 Our planet contains configurations of matter that don't exist anywhere else in the
 universe (skyscrapers, birthday cakes, thumbs), and more importantly, we are the only
 thing in the universe that is capable of generating representations of other parts
-of the unvierse. We can simulate in our minds or on our computers the full goings-on of
+of the universe. We can simulate in our minds or on our computers the full goings-on of
 a quasar millions of light-years away.
 
-These are merely the high-level takeaways from a very dense and totally thought-proviking
+These are merely the high-level takeaways from a very dense and totally thought-provoking
 book. I just finished reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
 
 #### **3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)**
@@ -107,10 +107,10 @@ book. I just finished reading Deutsch's first book, *The Fabric of Reality*, and
 
 Going in, I knew that *The Immortal Life Henrietta Lacks* would be a straightforward
 biography of Henrietta Lacks, whose infinitely-reproducing cancer cells were taken
-without concent and used for medical research, without any compensation to Henrietta
+without consent and used for medical research, without any compensation to Henrietta
 or her family. I knew that it would be an important and tragic story about race, class,
 science, and medicine. What I didn't realize was that this book is written in a
-beautiful inter-woven time-travelling style that masterfully jumps between three
+beautiful inter-woven time-traveling style that masterfully jumps between three
 narrative strands: the history of cancer research and medical ethics, the story of
 Henrietta Lacks and her family in 1950s Baltimore, and the buddy-cop road trip tale
 of Rebecca Skloot (the author) and Deborah Lacks (Henrietta's daughter). The beautiful
@@ -124,7 +124,7 @@ story an integral part of the science education curriculum. No lesson on cancer 
 complete without a discussion of the fraught history of medical research and a serious
 reflection on bioethics.
 
-#### **4\. Will & Ariel Durant -- The Lessons of Hisory (1968)**
+#### **4\. Will & Ariel Durant -- The Lessons of History (1968)**
 
 Two historians reflect on a lifetime of studying the past. The lessons of 100
 centuries distilled into 100 pages. Every paragraph is bursting with aphorisms,
@@ -182,16 +182,16 @@ be pretty dang inspiring.
 <img class="book" src="{{ page.directory }}/being_mortal.jpg" title="being mortal">
 
 Our current approach to end-of-life care is whack. When a patient is diagnosed with
-a terminal illness, doctors instinctually try extend their life no matter the cost,
-and often no matter the wishes and priorities of the patient. Invasive surgeries,
+a terminal illness, many doctors try extend their life no matter the cost,
+and often fail to take into account patients' wishes and priorities. Invasive surgeries,
 unpleasant therapies, buckets of medication, life in a hospital with no friends or family,
 and huge medical expenses are a routine part of end-of-life care. And even if
 these procedures are successful, there's an information asymmetry at play. Terminally
-ill patients think they're gaining decades of life; doctors knows they're only being
+ill patients think they're gaining decades of life; doctors know they're only being
 spared months. This over-medicalization of death forgets that the end of life should
 be dignified and meaningful, not isolating and dispiriting.
 
-And what's even crazier, this over-medicalization might not even be the most effective way to
+And paradoxically, this over-medicalization might not even be the most effective way to
 extend life at all! When doctors themselves become terminally ill, they reject the standard
 procedures, opting instead to live out their final days in comfort in hospice care,
 rather than stuck in a hospital bed...and then end up living longer anyway!
@@ -218,32 +218,54 @@ or dominate them. As Manne says: "it's not a sense of a woman's humanity that is
 lacking. Her humanity is precisely the problem."
 
 For a brilliant summary, check out <a href="https://www.newyorker.com/magazine/2017/11/27/the-root-of-all-cruelty"
-target="_blank">this article from the psychologist Paul Bloom</a>, which is where I first heard about the book. *Down Girl*
-is a must read, especially for men, in order to understand social forces that we
-can't see, and often unknowingly perpetuate.
+target="_blank">this article from the psychologist Paul Bloom</a>, which is where I first
+heard about the book. *Down Girl* is essential, especially for men, in order to understand
+social forces that we can't see, and often unknowingly perpetuate.
 
 #### **7\. David Kaiser -- How The Hippies Saved Physics (2011)**
 
 <img class="book" src="{{ page.directory }}/hippies.jpg" title="how the hippies saved physics">
 
-After World War II, the US government, especially the Department of Defence made
+After World War II, the US government, especially the Department of Defense made
 huge investments in physics research, since physicists had played a huge role in
 the war (see *The Making of the Atomic Bomb*!). Physicists were tasked with building
 on the success (scientifically, not ethically speaking) of the bomb. In the late '60s
 and early '70s, however, as the threat of the Cold War began to wane, this funding
 and fervor subsided, leaving huge numbers of PhD students without job prospects. A
-sizeable chunk of these newly unemployed students did what many people were doing in
+sizable chunk of these newly unemployed students did what many people were doing in
 the late '60s and early '70s: moving to California and joining the counterculture revolution.
-This is backdrop against *How The Hippies Saved Physics* is set, and it only gets
-more interesting from there.
+This is backdrop against *How The Hippies Saved Physics* is set.
 
+The scientists who formalized quantum mechanics in the 1920s had to contend with
+some weirdness in the theory: particles that remain mutually entangled even when
+light-years away, experiments that appear to yield different results depending on
+the presence of an observer, and superpositions of states (like Schrödinger's eponymous
+cat, which was initially proposed to ridicule the idea of superposition). Though
+there was initially debate over how to interpret these bizarre findings, the QM community
+eventually settled on an approach known as "shut up and calculate"---if the equations
+work, who cares about the philosophical implications of superposition or entanglement?
 
+The Fundamental Fysiks Group cared. This rag-tag band of scientist-hippies were as
+passionate about faith healing, mind-reading, mysticism, and the occult as they were
+about academic physics. They were concerned that an ESP gap with the Soviet Union
+was as worrisome as a missile gap, and helped spur "remote viewing" experiments
+at Stanford. They founded a seminar on quantum entanglement at the Essalen Institute,
+which is better known for LSD, meditation, and yoga than for Hilbert spaces and
+momentum operators. They argued that telekinesis was possible: if matter can alter
+consciousness, consciousness should be able to alter matter. But they also took seriously
+the idea of non-locality---namely, that microscopic particles can act in concert
+even when separated by huge distances (i.e. billions of light-years). Einstein dismissed
+this idea as "spooky action at a distance," but it turns out to be true. It's kind
+of hard to believe, but much of contemporary quantum information science, including quantum
+computing, is only possible because of ideas that were discussed, debated, and
+preserved by these people:
 
-#### **8\. Will Durant -- The Story of Philosophy (1924)**
+<div class="center">
+  <img src="{{ page.directory }}/fundamental.jpg" title="fundamental fysiks"
+  height="300px" width="300px">
+</div>
 
-<img class="book" src="{{ page.directory }}/philosophy.jpg" title="the story of philosophy">
-
-#### **9\. Steve Martin -- Born Standing Up (2007)**
+#### **8\. Steve Martin -- Born Standing Up (2007)**
 
 <img class="book" src="{{ page.directory }}/steve_martin.jpg" title="born standing up">
 
@@ -256,7 +278,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
 allowfullscreen></iframe>
 
 If *Born Standing Up* makes anything clear, it's that Steve Martin worked his
-tuchus off to get to where he is. Becoming a successful comedian requres years
+tuchus off to get to where he is. Becoming a successful comedian requires years
 and years of toil without recognition, dozens of bombed shows, countless hours
 of workshopping material, and a refusal to ever become complacent. Only then can
 you craft one-liners like these:
@@ -269,6 +291,10 @@ question: What time is it?</blockquote>
 
 The book is read by Steve Martin himself, and hearing his old material in his own
 voice is such a treat.
+
+#### **9\. Will Durant -- The Story of Philosophy (1924)**
+
+<img class="book" src="{{ page.directory }}/philosophy.jpg" title="the story of philosophy">
 
 #### 10\. When Breath Becomes Air by Paul Kalanithi
 
@@ -305,7 +331,7 @@ voice is such a treat.
 <img class="album" src="{{ page.directory }}/optimist.jpg" title="optimist">
 7\. Cory Wong -- The Optimist
 
-<img class="abum" src="{{ page.directory }}/kids_see_ghosts.jpg" title="kids see ghosts">
+<img class="album" src="{{ page.directory }}/kids_see_ghosts.jpg" title="kids see ghosts">
 8\. Kanye West & Kid Cudi -- Kids See Ghosts
 
 <img class="album" src="{{ page.directory }}/earthtones.jpg" title="earthtones">
