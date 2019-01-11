@@ -15,8 +15,10 @@ directory: /assets/img/favorite-2018
 3\. <a href="#Songs">Songs (from 2018)</a><br>
 4\. <a href="#OldSongs">Songs (not from 2018)</a><br>
 5\. <a href="#TV">TV Shows</a><br>
-6\. <a href="#Podcasts">Podcasts</a><br>
-7\. <a href="#Other">Other Stuff</a>
+6\. <a hred="#Movies">Movies</a><br>
+6\. <a href"#Standup">Standup Comedy Specials</a><br>
+7\. <a href="#Podcasts">Podcasts</a><br>
+8\. <a href="#Misc">Miscellaneous</a>
 
 <div id="Books" markdown="1">
 
@@ -28,7 +30,7 @@ semester, but now I'm reading (i.e. listening) constantly. Doing the dishes,
 folding laundry, walking to class, exercising; these are mere subsidiary tasks
 that facilitate more audiobook consumption.
 
-#### **1\. Richard Rhodes -- The Making of the Atomic Bomb (1986)**
+#### **1\. Richard Rhodes &ndash; The Making of the Atomic Bomb (1986)**
 
 <img class="book" src="{{ page.directory }}/atomic_bomb.jpg" title="atomic bomb">
 
@@ -54,7 +56,7 @@ ethical complexities. If you like physics, 20th century history, warfare, long
 strings of adjectives, or sparkling and cinematic narrative prose, then this
 hugely consequential tome is unmissable.
 
-#### **2\. David Deutsch -- The Beginning of Infinity (2011)**
+#### **2\. David Deutsch &ndash; The Beginning of Infinity (2011)**
 
 <img class="book" src="{{ page.directory }}/deutsch.jpg" title="beginning of infinity">
 
@@ -69,7 +71,7 @@ its assumptions would dramatically alter its predictions. Good Explanations have
 see. General relativity and quantum mechanics allow us to reason about black holes
 and the big bang, while natural selection allows us to think about extinct species
 from millions of years ago. Explanations improve by conjecture and refutation: when
-a new theory is proposed, we can use evidence to knock it down---whichever theory
+a new theory is proposed, we can use evidence to knock it down&ndash;-whichever theory
 withstands the most criticism is our best guess at the truth, until something better
 comes along. The search for good explanations is never over, since there will always
 be new scientific problems to solve. Solutions to problems give rise to new problems,
@@ -101,7 +103,7 @@ a quasar millions of light-years away.
 These are merely the high-level takeaways from a very dense and totally thought-provoking
 book. I just finished reading Deutsch's first book, *The Fabric of Reality*, and it's equally awesome.
 
-#### **3\. Rebecca Skloot -- The Immortal Life of Henrietta Lacks (2010)**
+#### **3\. Rebecca Skloot &ndash; The Immortal Life of Henrietta Lacks (2010)**
 
 <img class="book" src="{{ page.directory }}/henrietta.jpg" title="henrietta lacks">
 
@@ -114,9 +116,9 @@ beautiful inter-woven time-traveling style that masterfully jumps between three
 narrative strands: the history of cancer research and medical ethics, the story of
 Henrietta Lacks and her family in 1950s Baltimore, and the buddy-cop road trip tale
 of Rebecca Skloot (the author) and Deborah Lacks (Henrietta's daughter). The beautiful
-narrative combined with the unfathomably meticulous research---Skloot was able to
+narrative combined with the unfathomably meticulous research&ndash;-Skloot was able to
 recreate the exact conditions of the day Henrietta discovered her tumor in 1951,
-down to the weather and color of the walls---makes this a serious feat of journalism
+down to the weather and color of the walls&ndash;-makes this a serious feat of journalism
 and scientific writing.
 
 The most important thing about this book, though, is that it's made Henrietta's
@@ -124,7 +126,7 @@ story an integral part of the science education curriculum. No lesson on cancer 
 complete without a discussion of the fraught history of medical research and a serious
 reflection on bioethics.
 
-#### **4\. Will & Ariel Durant -- The Lessons of History (1968)**
+#### **4\. Will & Ariel Durant &ndash; The Lessons of History (1968)**
 
 Two historians reflect on a lifetime of studying the past. The lessons of 100
 centuries distilled into 100 pages. Every paragraph is bursting with aphorisms,
@@ -177,7 +179,7 @@ experienced the unthinkable: a childhood void of the music of Beyoncé. We get B
 and can continue to build on top of this massive cultural legacy. I find that to
 be pretty dang inspiring.
 
-#### **5\. Atul Gawande -- Being Mortal (2014)**
+#### **5\. Atul Gawande &ndash; Being Mortal (2014)**
 
 <img class="book" src="{{ page.directory }}/being_mortal.jpg" title="being mortal">
 
@@ -199,7 +201,7 @@ rather than stuck in a hospital bed...and then end up living longer anyway!
 In a world with an increasingly aging population, *Being Mortal* is an eye-opening,
 must-read book.
 
-#### **6\. Kate Manne -- Down Girl (2017)**
+#### **6\. Kate Manne &ndash; Down Girl (2017)**
 
 <img class="book" src="{{ page.directory }}/down_girl.jpg" title="down girl">
 
@@ -222,7 +224,7 @@ target="_blank">this article from the psychologist Paul Bloom</a>, which is wher
 heard about the book. *Down Girl* is essential, especially for men, in order to understand
 social forces that we can't see, and often unknowingly perpetuate.
 
-#### **7\. David Kaiser -- How The Hippies Saved Physics (2011)**
+#### **7\. David Kaiser &ndash; How The Hippies Saved Physics (2011)**
 
 <img class="book" src="{{ page.directory }}/hippies.jpg" title="how the hippies saved physics">
 
@@ -242,7 +244,7 @@ light-years away, experiments that appear to yield different results depending o
 the presence of an observer, and superpositions of states (like Schrödinger's eponymous
 cat, which was initially proposed to ridicule the idea of superposition). Though
 there was initially debate over how to interpret these bizarre findings, the QM community
-eventually settled on an approach known as "shut up and calculate"---if the equations
+eventually settled on an approach known as "shut up and calculate"&ndash;-if the equations
 work, who cares about the philosophical implications of superposition or entanglement?
 
 The Fundamental Fysiks Group cared. This rag-tag band of scientist-hippies were as
@@ -253,7 +255,7 @@ at Stanford. They founded a seminar on quantum entanglement at the Essalen Insti
 which is better known for LSD, meditation, and yoga than for Hilbert spaces and
 momentum operators. They argued that telekinesis was possible: if matter can alter
 consciousness, consciousness should be able to alter matter. But they also took seriously
-the idea of non-locality---namely, that microscopic particles can act in concert
+the idea of non-locality&ndash;-namely, that microscopic particles can act in concert
 even when separated by huge distances (i.e. billions of light-years). Einstein dismissed
 this idea as "spooky action at a distance," but it turns out to be true. It's kind
 of hard to believe, but much of contemporary quantum information science, including quantum
@@ -265,7 +267,7 @@ preserved by these people:
   height="300px" width="300px">
 </div>
 
-#### **8\. Steve Martin -- Born Standing Up (2007)**
+#### **8\. Steve Martin &ndash; Born Standing Up (2007)**
 
 <img class="book" src="{{ page.directory }}/steve_martin.jpg" title="born standing up">
 
@@ -292,13 +294,13 @@ question: What time is it?</blockquote>
 The book is read by Steve Martin himself, and hearing his old material in his own
 voice is such a treat.
 
-#### **9\. Will Durant -- The Story of Philosophy (1924)**
+#### **9\. Will Durant &ndash; The Story of Philosophy (1924)**
 
 <img class="book" src="{{ page.directory }}/philosophy.jpg" title="the story of philosophy">
 
 #### 10\. When Breath Becomes Air by Paul Kalanithi
 
-#### 11\. Ta-Nehisi Coates -- We Were Eight Years In Power
+#### 11\. Ta-Nehisi Coates &ndash; We Were Eight Years In Power
 
 #### 13\. Shoe Dog
 
@@ -311,42 +313,42 @@ voice is such a treat.
 ## Albums
 
 <img class="album" src="{{ page.directory }}/vulfpeck.jpg" title="hill climber">
-1\. Vulfpeck -- Hill Climber
+1\. Vulfpeck &ndash; Hill Climber
 
 <img class="album" src="{{ page.directory }}/lawrence.jpg" title="living room">
-2\. Lawrence -- Living Room
+2\. Lawrence &ndash; Living Room
 
 <img class="album" src="{{ page.directory }}/sweetner.jpg" title="sweetner">
-3\. Ariana Grande -- Sweetener
+3\. Ariana Grande &ndash; Sweetener
 
 <img class="album" src="{{ page.directory }}/geography.jpg" title="geography">
-4\. Tom Misch -- Geography
+4\. Tom Misch &ndash; Geography
 
 <img class="album" src="{{ page.directory }}/fearless.jpg" title="fearless">
-5\. The Fearles Flyers -- The Fearless Flyers
+5\. The Fearles Flyers &ndash; The Fearless Flyers
 
 <img class="album" src="{{ page.directory }}/daytona.jpg" title="daytona">
-6\. Pusha T -- Daytona
+6\. Pusha T &ndash; Daytona
 
 <img class="album" src="{{ page.directory }}/optimist.jpg" title="optimist">
-7\. Cory Wong -- The Optimist
+7\. Cory Wong &ndash; The Optimist
 
 <img class="album" src="{{ page.directory }}/kids_see_ghosts.jpg" title="kids see ghosts">
-8\. Kanye West & Kid Cudi -- Kids See Ghosts
+8\. Kanye West & Kid Cudi &ndash; Kids See Ghosts
 
 <img class="album" src="{{ page.directory }}/earthtones.jpg" title="earthtones">
-9\. Bahamas -- Earthtones
+9\. Bahamas &ndash; Earthtones
 
 <img class="album" src="{{ page.directory }}/privacy.jpg" title="privacy">
-10\. Cardi B -- Invasion of Privacy
+10\. Cardi B &ndash; Invasion of Privacy
 
 ### Honorable Mentions
 
 <img class="album" src="{{ page.directory }}/inside_voice.jpg" title="inside voice">
-11. Joey Dosik -- Inside Voice
+11. Joey Dosik &ndash; Inside Voice
 
 <img class="album" src="{{ page.directory }}/dirty_computer.jpg" title="dirty computer">
-12. Janelle Monae -- Dirty Computer
+12. Janelle Monae &ndash; Dirty Computer
 
 </div>
 
@@ -355,42 +357,48 @@ voice is such a treat.
 ## Songs (alphabetically by artist)
 
 <ul>
-  <li> Anderson .Paak -- Bubblin </li>
-  <li> Ariana Grande -- Get Well Soon </li>
-  <li> Cardi B -- I Like It </li>
-  <li> Cory Wong -- '91 Maxima </li>
-  <li> Cory Wong -- The Optimist [Dave Koz Remix] </li>
-  <li> Bruno Mars ft. Cardi B -- Finesse [Remix] </li>
-  <li> Donald Glover -- This Is America </li>
-  <li> Drake -- Nice For What </li>
-  <li> Joey Dosik -- Inside Voice </li>
-  <li> Kacey Musgraves -- High Horse </li>
-  <li> Kanye West -- Lift Yourself </li>
-  <li> Lawrence -- More </li>
-  <li> Lawrence -- Probably Up </li>
-  <li> Louis Cole -- Bank Account </li>
-  <li> Pusha T -- If You Know You Know </li>
-  <li> Ryan Lerman -- The American Dream </li>
-  <li> Scary Pockets -- Jamirobeegees Mashup </li>
-  <li> Scary Pockets -- Rolling In The Deep </li>
-  <li> Tom Misch -- Movie </li>
-  <li> Vulfpeck -- Half Of The Way </li>
-  <li> Vulfpeck -- Darwin Derby </li>
-  <li> Vulfpeck -- Soft Parade </li>
-  <li> Vulfpeck -- The Cup Stacker </li>
+  <li> Anderson .Paak &ndash; Bubblin </li>
+  <li> Ariana Grande &ndash; Get Well Soon </li>
+  <li> Cardi B &ndash; I Like It </li>
+  <li> Cory Wong &ndash; '91 Maxima </li>
+  <li> Cory Wong &ndash; The Optimist [Dave Koz Remix] </li>
+  <li> Bruno Mars ft. Cardi B &ndash; Finesse [Remix] </li>
+  <li> Donald Glover &ndash; This Is America </li>
+  <li> Drake &ndash; Nice For What </li>
+  <li> Joey Dosik &ndash; Inside Voice </li>
+  <li> Kacey Musgraves &ndash; High Horse </li>
+  <li> Kanye West &ndash; Lift Yourself </li>
+  <li> Lawrence &ndash; More </li>
+  <li> Lawrence &ndash; Probably Up </li>
+  <li> Louis Cole &ndash; Bank Account </li>
+  <li> Pusha T &ndash; If You Know You Know </li>
+  <li> Ryan Lerman &ndash; The American Dream </li>
+  <li> Scary Pockets &ndash; Jamirobeegees Mashup </li>
+  <li> Scary Pockets &ndash; Rolling In The Deep </li>
+  <li> Tom Misch &ndash; Movie </li>
+  <li> Vulfpeck &ndash; Half Of The Way </li>
+  <li> Vulfpeck &ndash; Darwin Derby </li>
+  <li> Vulfpeck &ndash; Soft Parade </li>
+  <li> Vulfpeck &ndash; The Cup Stacker </li>
 </ul>
 
 </div>
 
+<div id="OldSongs" markdown="1">
+
 ## Songs Not From 2018
 
 <ol>
-  <li> Daniel Caesar -- Best Part </li>
-  <li> Rex Orange County -- Loving Is Easy </li>
-  <li> Saint Motel -- My Type </li>
+  <li> Daniel Caesar &ndash; Best Part </li>
+  <li> Rex Orange County &ndash; Loving Is Easy </li>
+  <li> Saint Motel &ndash; My Type </li>
 </ol>
 
 Here's a Spotify playlist with all of these songs, and more!
+
+</div>
+
+<div id="TV" markdown="1">
 
 ## TV Shows (watched in 2018)
 
@@ -402,6 +410,10 @@ Here's a Spotify playlist with all of these songs, and more!
 * American Crime Story: OJ Simpson
 * Fawlty Towers
 
+</div>
+
+<div id="Movies" markdown="1">
+
 ## Movies
 
 1. Spiderman: Into The Spider-Verse
@@ -410,28 +422,79 @@ Here's a Spotify playlist with all of these songs, and more!
 4. A Star Is Born
 5. Vice
 
-## Podcast Episodes
+</div>
 
-* Waking Up With Sam Harris
-* The Ezra Klein Show
-* The Bill Simmons Podcast
-* In Our Time
-* Caliphate
+<div id="Podcasts" markdown="1">
 
+## Podcasts
+
+#### Waking Up With Sam Harris
+
+* Is #MeToo Going To Far (with Rebecca Traister)
+  - Traister challenges and engages with Sam in a super productive way, and models how
+  to be persuasive and assertive without a hint of contempt. Sam is also uncharacteristically
+  charitable, which makes for a great discussion.
+* Gary Taubes: The case against sugar
+  - The most interesting I learned is that causal inference is unbelievably hard. Is it true
+  that having a glass of wine with dinner is good for you, or do people with stable,
+  happy, healthy lives have the luxury of enjoying a nightly glass of wine? Do placebos
+  actually work as effectively as real medications, or do placebo studies simply show
+  that the type of people who obey their doctor's orders and complete prescribed
+  treatments in their entirety are more likely to become healthy? After all: neither
+  the placebo nor the real medication work if they're not taken consistently.
+
+#### The Ezra Klein Show
+
+* The Green Pill with Dr. Melanie Joy
+  - A harrowing conversation about the brutality of animal eating, or carnism, an
+ideology as insidious and systemic as any other -ism out there. Get this: more animals
+killed each day than the number of humans killed in all wars, *combined*. I don't
+even know how to process a statistic like that.
+* Anand Giridharadas on the elite charade of changing the world
+
+
+### The Bill Simmons Podcast
+* How I keep up with American sports in an inconvenient time zone.
+
+### Caliphate
+* A ten-episode series from New York Times reporter Rukmini Callimachi on how
+ISIS recruited and radicalized a young Canadian man who has since returned from
+Syria. We learn about how recruits educated in fundamentalist religious teachings
+then trained to commit heinous acts of violence, including brutal beheadings. Rukmini's
+own journalism consists of sneaking into ISIS-held buildings and searching for
+documents, receipts, notepads, or any other paper trail that can be used to understand
+the inner workings of the terrorist organization. The entire podcast series is
+captivating and scary as hell. By the way: what even happened to ISIS? Is that, like,
+not a thing anymore?
+
+### Very Bad Wizards
+* I don't want to pick a specific episode, but Dave Pizarro (a psychologist)
+  and Tamler Sommers (a philosopher) strike the perfect hilarity-to-rigour ratio.
+
+### Lexicon Valley
+* John McWhorter is a national treasure. He effortlessly weaves together interesting
+stories about the English language while speaking in fluent musical theater and old
+movie references.
+
+</div>
+
+<div id="Standup" markdown="1">
 
 ## Stand-Up Comedy Specials (alphabetically)
 
 <ul>
-  <li> Fred Armisen -- Standup for Drummers </li>
-  <li> Ellen DeGeneres -- Relatable </li>
-  <li> Hannah Gadsby -- Nanette </li>
-  <li> Demitri Martin -- The Overthinker </li>
-  <li> John Mulaney -- Kid Gorgeous </li>
+  <li> Fred Armisen &ndash; Standup for Drummers </li>
+  <li> Ellen DeGeneres &ndash; Relatable </li>
+  <li> Hannah Gadsby &ndash; Nanette </li>
+  <li> Demitri Martin &ndash; The Overthinker </li>
+  <li> John Mulaney &ndash; Kid Gorgeous </li>
 </ul>
 
+</div>
 
+<div id="Misc" markdown="1">
 
-## Other Stuff
+## Miscellaneous
 
 ### San Francisco
 
@@ -441,6 +504,11 @@ Here's a Spotify playlist with all of these songs, and more!
 
 ### Programming in R
 
+I chose to use R for my thesis, which was a data science-heavy project on whether
+tweets with moral and emotional language were more likely to be retweeted. I was
+lukewarm at first, but I have now absolutely fallen in love with R, RStudio, the
+Tidyverse, and the incredible open source R community.
+
 ### Evernote
 
 ### Edinburgh Fringe Festival
@@ -448,3 +516,19 @@ Here's a Spotify playlist with all of these songs, and more!
 ### Emailing Your Heroes
 
 ### Veganism
+
+### Vulfpeck
+
+### Other Random People/Things I Like
+* Alexandria Ocasio-Cortez
+* <a href="https://www.youtube.com/watch?v=NeHW0MJSxMs" target="_blank">This conversation</a>
+between Steven Pinker and John McWhorter
+* <a href="https://www.youtube.com/watch?v=ORthzIOEf30" target="_blank">Robert Sapolsky's TED Talk</a>
+* Vi Hart and Henry Segerman's *Peace for Triple Piano*. Even better than the
+video itself is the <a href=" " target="_blank">making-of</a>
+* This pair of talks by Douglas Hofstadter on machine translation (MT): the MT-ness
+of MT and the Bu-T of Hu-T
+* This Vlogbrothers video: Why Some Environmentalists Hate Captain Planet
+* The "Dutch John Oliver" making a funny and cogent case for nuclear energy
+
+</div>
