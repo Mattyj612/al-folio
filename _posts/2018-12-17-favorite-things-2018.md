@@ -13,11 +13,10 @@ directory: /assets/img/favorite-2018
 1\. <a href="#Books">Books (read in 2018)</a><br>
 2\. <a href="#Albums">Albums</a><br>
 3\. <a href="#Songs">Songs (from 2018)</a><br>
-4\. <a href="#OldSongs">Songs (not from 2018)</a><br>
-5\. <a href="#TV">TV Shows</a><br>
-6\. <a hred="#Movies">Movies</a><br>
-6\. <a href"#Standup">Standup Comedy Specials</a><br>
-7\. <a href="#Podcasts">Podcasts</a><br>
+4\. <a href="#TV">TV Shows</a><br>
+5\. <a href="#Movies">Movies</a><br>
+6\. <a href="#Podcasts">Podcasts</a><br>
+7\. <a href="#Standup">Standup Comedy Specials</a><br>
 8\. <a href="#Misc">Miscellaneous</a>
 
 <div id="Books" markdown="1">
@@ -71,7 +70,7 @@ its assumptions would dramatically alter its predictions. Good Explanations have
 see. General relativity and quantum mechanics allow us to reason about black holes
 and the big bang, while natural selection allows us to think about extinct species
 from millions of years ago. Explanations improve by conjecture and refutation: when
-a new theory is proposed, we can use evidence to knock it down&ndash;-whichever theory
+a new theory is proposed, we can use evidence to knock it down&emdash;whichever theory
 withstands the most criticism is our best guess at the truth, until something better
 comes along. The search for good explanations is never over, since there will always
 be new scientific problems to solve. Solutions to problems give rise to new problems,
@@ -294,17 +293,42 @@ question: What time is it?</blockquote>
 The book is read by Steve Martin himself, and hearing his old material in his own
 voice is such a treat.
 
-#### **9\. Will Durant &ndash; The Story of Philosophy (1924)**
+<hr>
+
+At this point in the book-selection process, I became overwhelmed by the number of
+good books I read this year and decided I couldn't possibly round out the top-10.
+So I'll simply mention some more books I loved, without the daunting numbering
+scheme.
+
+#### **Will Durant &ndash; The Story of Philosophy (1924)**
 
 <img class="book" src="{{ page.directory }}/philosophy.jpg" title="the story of philosophy">
 
-#### 10\. When Breath Becomes Air by Paul Kalanithi
+The best summary I've ever read of the ideas of Socrates, Plato, Aristotle, Spinoza, and
+Bacon. Will Durant is a flippin' poet, and he has more delicious turns of phrase per page
+than any other historian I've ever read. The descriptions of the more modern the philosophers
+are a bit sketchier, but that's to be expected from a book written in 1924. But everything
+up to the Enlightenment is unimpeachable and eloquent as heck.
 
-#### 11\. Ta-Nehisi Coates &ndash; We Were Eight Years In Power
+#### **When Breath Becomes Air by Paul Kalanithi (2016)**
 
-#### 13\. Shoe Dog
+<img class="book" src="{{ page.directory }}/kalanithi.jpg" title="when breath becomes air">
 
-#### 14\. Elon Musk
+#### **Ta-Nehisi Coates &ndash; We Were Eight Years In Power**
+
+<img class="book" src="{{ page.directory }}/coates.jpg" title="we were eight years in power">
+
+#### **Phil Knight &ndash; Shoe Dog (2016)**
+
+<img class="book" src="{{ page.directory }}/shoe_dog.jpg" title="shoe dog">
+
+#### **Ashlee Vance &ndash; Elon Musk (2015)**
+
+<img class="book" src="{{ page.directory }}/elon.jpg" title="elon musk">
+
+#### **Tina Fey &ndash; Bossypants (2011)**
+
+<img class="book" src="{{ page.directory }}/bossypants.jpg" title="bossypants">
 
 </div>
 
@@ -345,56 +369,71 @@ voice is such a treat.
 ### Honorable Mentions
 
 <img class="album" src="{{ page.directory }}/inside_voice.jpg" title="inside voice">
-11. Joey Dosik &ndash; Inside Voice
+11\. Joey Dosik &ndash; Inside Voice
 
 <img class="album" src="{{ page.directory }}/dirty_computer.jpg" title="dirty computer">
-12. Janelle Monae &ndash; Dirty Computer
+12\. Janelle Monae &ndash; Dirty Computer
 
 </div>
 
 <div id="Songs" markdown="1">
 
-## Songs (alphabetically by artist)
+## Songs
 
-<ul>
+Some songs I truly loved-loved (like, make-faces-alone-in-front-of-the-mirror-level
+love) this year were:
+
+* Pusha T &ndash; If You Know You Know
+* Cory Wong &ndash; '91 Maxima
+* Ariana Grande &ndash; Get Well Soon
+* Vulfpeck &ndash; Darwin Derby
+* Pomplamoose &ndash; Jamirobeegees Mashup
+* Lawrence &ndash; Probably Up
+* John Mayer &ndash; New Light
+
+Here are some songs I fell in love with that weren't released this year:
+
+* CHVRCHES &ndash; The Mother We Share
+* Daniel Caesar ft. H.E.R. &ndash; Best Part
+* Rex Orange County &ndash; Loving Is Easy
+* Saint Motel &ndash; My Type
+
+These songs, plus many, many more that I enjoyed this year, are on this (randomly ordered)
+Spotify playlist. Enjoy!
+
+<iframe src="https://open.spotify.com/embed/user/mattyj612/playlist/5pxkj5V3SvVPw8jDugdsZm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<!-- <ul>
   <li> Anderson .Paak &ndash; Bubblin </li>
   <li> Ariana Grande &ndash; Get Well Soon </li>
+  <li> Bruno Mars ft. Cardi B &ndash; Finesse [Remix] </li>
   <li> Cardi B &ndash; I Like It </li>
+  <li> Christopher Jackson, Barack Obama, & BeBe Winans &ndash; One More Time (44 Remix)</li>
   <li> Cory Wong &ndash; '91 Maxima </li>
   <li> Cory Wong &ndash; The Optimist [Dave Koz Remix] </li>
-  <li> Bruno Mars ft. Cardi B &ndash; Finesse [Remix] </li>
   <li> Donald Glover &ndash; This Is America </li>
   <li> Drake &ndash; Nice For What </li>
+  <li> Janelle Monae &ndash; Make Me Feel
   <li> Joey Dosik &ndash; Inside Voice </li>
+  <li> John Mayer &ndash; New Light</li>
+  <li> Justin Timberlake &ndash; Filthy</li>
   <li> Kacey Musgraves &ndash; High Horse </li>
   <li> Kanye West &ndash; Lift Yourself </li>
   <li> Lawrence &ndash; More </li>
   <li> Lawrence &ndash; Probably Up </li>
   <li> Louis Cole &ndash; Bank Account </li>
+  <li> Pomplamoose &ndash; Jamirobeegees Mashup </li>
   <li> Pusha T &ndash; If You Know You Know </li>
   <li> Ryan Lerman &ndash; The American Dream </li>
-  <li> Scary Pockets &ndash; Jamirobeegees Mashup </li>
   <li> Scary Pockets &ndash; Rolling In The Deep </li>
+  <li> Shawn Mendes ft. Julia Michaels &ndash; Like To Be You</li>
+  <li> Snoop Dogg ft. Tye Tribbett &ndash; You </li>
   <li> Tom Misch &ndash; Movie </li>
+  <li> Troye Sivan &ndash; My My My</li>
   <li> Vulfpeck &ndash; Half Of The Way </li>
   <li> Vulfpeck &ndash; Darwin Derby </li>
   <li> Vulfpeck &ndash; Soft Parade </li>
-  <li> Vulfpeck &ndash; The Cup Stacker </li>
-</ul>
-
-</div>
-
-<div id="OldSongs" markdown="1">
-
-## Songs Not From 2018
-
-<ol>
-  <li> Daniel Caesar &ndash; Best Part </li>
-  <li> Rex Orange County &ndash; Loving Is Easy </li>
-  <li> Saint Motel &ndash; My Type </li>
-</ol>
-
-Here's a Spotify playlist with all of these songs, and more!
+</ul> -->
 
 </div>
 
@@ -428,14 +467,17 @@ Here's a Spotify playlist with all of these songs, and more!
 
 ## Podcasts
 
-#### Waking Up With Sam Harris
+#### **Waking Up With Sam Harris**
+
+Still my favorite podcast, even though I find myself increasingly taking issue with
+many of Sam's views. A couple of my favorite episodes were:
 
 * Is #MeToo Going To Far (with Rebecca Traister)
   - Traister challenges and engages with Sam in a super productive way, and models how
   to be persuasive and assertive without a hint of contempt. Sam is also uncharacteristically
   charitable, which makes for a great discussion.
 * Gary Taubes: The case against sugar
-  - The most interesting I learned is that causal inference is unbelievably hard. Is it true
+  - The most interesting thing I learned is that causal inference is unbelievably hard. Is it true
   that having a glass of wine with dinner is good for you, or do people with stable,
   happy, healthy lives have the luxury of enjoying a nightly glass of wine? Do placebos
   actually work as effectively as real medications, or do placebo studies simply show
@@ -443,7 +485,7 @@ Here's a Spotify playlist with all of these songs, and more!
   treatments in their entirety are more likely to become healthy? After all: neither
   the placebo nor the real medication work if they're not taken consistently.
 
-#### The Ezra Klein Show
+#### **The Ezra Klein Show**
 
 * The Green Pill with Dr. Melanie Joy
   - A harrowing conversation about the brutality of animal eating, or carnism, an
@@ -451,12 +493,17 @@ ideology as insidious and systemic as any other -ism out there. Get this: more a
 killed each day than the number of humans killed in all wars, *combined*. I don't
 even know how to process a statistic like that.
 * Anand Giridharadas on the elite charade of changing the world
+  - This was an important one. Anand criticizes elites in the corporate world for
+starting "philanthropic side-hustles" instead of confronting the harm they do in their
+day jobs, and for existing in wealthy, lavish echo chambers.
 
 
-### The Bill Simmons Podcast
-* How I keep up with American sports in an inconvenient time zone.
+#### **The Bill Simmons Podcast**
+* How I keep up with American sports in an inconvenient time zone. I especially enjoyed
+Bill's converstaions with Kevin Durant, and his debate with Juliet Litman on the
+<a href="http://besttv.theringer.com/" target="_blank"> 100 greatest TV episodes of the century</a>
 
-### Caliphate
+#### **Caliphate**
 * A ten-episode series from New York Times reporter Rukmini Callimachi on how
 ISIS recruited and radicalized a young Canadian man who has since returned from
 Syria. We learn about how recruits educated in fundamentalist religious teachings
@@ -467,20 +514,26 @@ the inner workings of the terrorist organization. The entire podcast series is
 captivating and scary as hell. By the way: what even happened to ISIS? Is that, like,
 not a thing anymore?
 
-### Very Bad Wizards
-* I don't want to pick a specific episode, but Dave Pizarro (a psychologist)
+#### **Very Bad Wizards**
+* I can't really pick a specific episode, but Dave Pizarro (a psychologist)
   and Tamler Sommers (a philosopher) strike the perfect hilarity-to-rigour ratio.
 
-### Lexicon Valley
-* John McWhorter is a national treasure. He effortlessly weaves together interesting
-stories about the English language while speaking in fluent musical theater and old
-movie references.
+#### **Lexicon Valley**
+* John McWhorter is a goddamn national treasure. He effortlessly weaves together
+interesting stories about the English language while speaking in fluent musical theater
+and old movie references.
+
+#### **Conversations With Tyler**
+* Tyler Cowen is probably the best question-asker out there, and these episodes are
+worth listening to simply to marvel at Tyler's preparation for the interviews. He
+reads everything his guest has ever written, from their current op-eds to their
+undergraduate theses, and never misses a beat. It's an sight (sound) to behold (hear).
 
 </div>
 
 <div id="Standup" markdown="1">
 
-## Stand-Up Comedy Specials (alphabetically)
+## Stand-Up Comedy Specials
 
 <ul>
   <li> Fred Armisen &ndash; Standup for Drummers </li>
@@ -496,39 +549,80 @@ movie references.
 
 ## Miscellaneous
 
-### San Francisco
+#### **San Francisco**
 
-### The History of Artificial Intelligence
+This year, I visited San Francisco for the first time, to participate in a pretty sweet
+retreat called <a href="joininteract.com" target="_blank">Interact</a>. Here's a
+<a href="https://twitter.com/mattyj612/status/1082863343956709376" target="_blank">Twitter
+thread</a> where I kvell about the people I met there. In addition to Interact, I
+visited the Stanford campus (gorgeous, holy hell) and the offices of Google, Apple,
+and Khan Academy. I also met Grant Sanderson of the YouTube channel <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank"> 3Blue1Brown</a>, probably the best explanatory
+mathematical resource ever, and met some other ultra-impressive people while visiting
+<a href="http://topos.house" target="_blank">houses</a> that have
+<a href="https://archive.house/" target="_blank">websites.</a>
 
-### Avalon
+A few months later, I return to San Francisco for yet another retreat, this time with
+basically every Silicon Valley person I follow on Twitter convened in one place to talk
+about improving the world 'n' stuff. It was fun and fascinating, but simultaneously kind
+of alarming. The Silicon Valley ilk have a very well-defined lens on the world. They
+think that they're thinking outside of the box, but they've really just all collectively
+moved to a new techno-utopic-libertarian-optimistic box. That's not a bad thing,
+per se, and I often enjoy being in that box myself, but it would be silly not to
+acknowledge the homogenizing force of the Bay Area. More people probably need to
+jump between Oxford (critical, slow-moving, big fan of institutions) and the
+Bay Area (quick-paced, market-motivated, skeptical of institutions), to lean that
+two bubbles of ultra-smart, ultra-driven people can have wildly different cultures
+and lenses on the world. For what it's worth, I like both a great deal, and probably
+like San Francisco more, but could never live in a place with such a well-defined
+ethos for any extended period of time.
 
-### Programming in R
+The most important thing, though, I took out of my trips to San Francisco was...
+
+#### **Avalon**
+
+#### **Programming in R**
 
 I chose to use R for my thesis, which was a data science-heavy project on whether
 tweets with moral and emotional language were more likely to be retweeted. I was
 lukewarm at first, but I have now absolutely fallen in love with R, RStudio, the
-Tidyverse, and the incredible open source R community.
+Tidyverse, and the incredible open source R community. Using R feels like playing
+tetris, and every time you insert a pipe operator `%>%`, inserted with `cmd-shift-m`,
+you feel like you've just cleared five rows with a long vertical piece. If you ever
+need to do anything with data, especially for social science research, ditch whatever
+software you're using and head on over to R. If you don't find it fun, let me
+know and I'll help you turn your R experience into a blast and a half!
 
-### Evernote
+An thing I did learn from my thesis
 
-### Edinburgh Fringe Festival
+#### **Evernote**
 
-### Emailing Your Heroes
+I've now moved all of my note-taking and information storage to Evernote, and
+it's phenomenal. Whenever I watch a good YouTube video, read a good article,
+or hear a good podcast episode, I immediately save it to Evernote. I also take
+notes there while I listen to audiobooks. This ultra-long post would not have
+been possible if I hadn't been continuously saving interesting stuff on Evernote.
+I also use it as a note-taking device for my thesis research, instead of clunky ol'
+Word documents.
 
-### Veganism
+#### **Edinburgh Fringe Festival**
+
+#### **Veganism**
+
+#### **Emailing Your Heroes**
 
 ### Vulfpeck
 
-### Other Random People/Things I Like
-* Alexandria Ocasio-Cortez
+### Other Random Things I Like
+* Alexandria Ocasio-Cortez's <a href="https://twitter.com/aoc" target="_blank">tweets</a>
 * <a href="https://www.youtube.com/watch?v=NeHW0MJSxMs" target="_blank">This conversation</a>
 between Steven Pinker and John McWhorter
 * <a href="https://www.youtube.com/watch?v=ORthzIOEf30" target="_blank">Robert Sapolsky's TED Talk</a>
-* Vi Hart and Henry Segerman's *Peace for Triple Piano*. Even better than the
-video itself is the <a href=" " target="_blank">making-of</a>
-* This pair of talks by Douglas Hofstadter on machine translation (MT): the MT-ness
-of MT and the Bu-T of Hu-T
-* This Vlogbrothers video: Why Some Environmentalists Hate Captain Planet
-* The "Dutch John Oliver" making a funny and cogent case for nuclear energy
+* Vi Hart and Henry Segerman's <a href="https://www.youtube.com/watch?v=HcRW3FMuttY" target="_blank">*Peace for Triple Piano*.</a> Even better than the video itself is the <a href="https://www.youtube.com/watch?v=x1zJoU6Luss" target="_blank">making-of</a>
+* This pair of talks by Douglas Hofstadter on machine translation (MT): <a href="https://www.youtube.com/watch?v=2xnr-ST6ITo&t=22s" target="_blank">the MT-ness of MT</a> and the
+<a href="https://www.youtube.com/watch?v=D85XmPvh0DA" target="_blank">Bu-T of Hu-T</a>
+* This Vlogbrothers video: <a href="https://www.youtube.com/watch?v=z1fJChrJniU" target="_blank">
+Why Some Environmentalists Hate Captain Planet</a>
+* This <a href="https://www.youtube.com/watch?v=YjFWiMJdotM" target="_blank">funny and cogent case</a>
+for nuclear energy on Dutch TV
 
 </div>

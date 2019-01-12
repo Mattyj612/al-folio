@@ -494,19 +494,19 @@ figcaption { font-size: 0.875rem; }
 
 iframe { display: block; margin: 0 auto; padding-bottom: 20px; }
 
-.album { display: block; margin-left: auto; margin-right: auto; width: 325px; height: 325px; }
+.album { display: block; margin-left: auto; margin-right: auto; width: 275px; height: 275px; }
 
 .gist, .gist .highlight .p { font-size: .75rem; }
 
 .gist .lines { width: 100%; }
 
-a { color: #666; text-decoration: none; }
+a { color: #333; text-decoration: none; }
 a:hover { color: #2698BA; text-decoration: none; }
 
 article a, .news a { color: #2698BA; font-weight: 100; }
 article a:hover, .news a:hover { text-decoration: underline; }
 
-.social a { color: #666; }
+.social a { color: #333; }
 .social a:hover { color: #2698BA; }
 
 .measure { margin: 0 auto; max-width: 42rem; }
@@ -531,7 +531,7 @@ table > tbody + tbody { border-top: 2px solid #333; }
 
 html { font-size: 17px; }
 
-body { color: #666; font-weight: 100; }
+body { color: #333; font-weight: 100; }
 
 abbr { border-bottom: 1px black dotted; cursor: help; }
 
