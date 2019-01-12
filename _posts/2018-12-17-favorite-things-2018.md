@@ -19,7 +19,6 @@ directory: /assets/img/favorite-2018
 7\. <a href="#Standup">Standup Comedy Specials</a><br>
 8\. <a href="#Misc">Miscellaneous</a>
 
-<!-- <div id="Books" class="section" markdown="1"> -->
 <div style="position:relative">
   <a id="Books" class="anchor"></a>
   <h2>Books</h2>
@@ -582,16 +581,29 @@ The most important thing, though, I took out of my trips to San Francisco was...
 #### **Programming in R**
 
 I chose to use R for my thesis, which was a data science-heavy project on whether
-tweets with moral and emotional language were more likely to be retweeted. I was
-lukewarm at first, but I have now absolutely fallen in love with R, RStudio, the
-Tidyverse, and the incredible open source R community. Using R feels like playing
-tetris, and every time you insert a pipe operator `%>%`, inserted with `cmd-shift-m`,
-you feel like you've just cleared five rows with a long vertical piece. If you ever
-need to do anything with data, especially for social science research, ditch whatever
-software you're using and head on over to R. If you don't find it fun, let me
-know and I'll help you turn your R experience into a blast and a half!
+tweets with moral and emotional language were more likely to be retweeted. (Here's
+the project on the <a href="https://osf.io/cvw8s/" target="_blank">Open Science Framework.</a>
+Go reproducibility!) I was lukewarm at first, but I have now absolutely fallen in
+love with R, RStudio, the Tidyverse, and the incredible open source R community.
+Using R feels like playing Tetris, and every time you insert a pipe operator `%>%`,
+inserted with `cmd-shift-m`, you feel like you've just cleared five rows with a long
+vertical piece. If you ever need to do anything with data, especially for social
+science research, ditch whatever software you're using and head on over to R. If
+you don't find it fun, let me know and I'll help you turn your R experience into a
+blast and a half!
 
-An thing I did learn from my thesis
+I learned two important lessons from my thesis. First: when learning to code---or
+when learning any tricky skill, really---the most important thing is continuous feedback.
+You should be constantly sharing your work, and if you're stuck for more than 10 minutes,
+ask an expert for help. 9%% of the time, the thing you're stuck on is silly or a
+strange matter of convention, and 90% of the time you'll figure out the answer before
+your expert even has time to respond. My personal expert is my friend <a href="https://twitter.com/davidklaing" target="_blank">David</a>, who is a data scientist and who was unbelievably generous
+with his help. It allowed me to get up to speed in R super, super quickly.
+
+The second lesson is that it's hella hard to improve at anything without a specific
+problem to solve. If your goal is "I want to learn R," you won't find yourself making.
+much progress. But if your goal is "I have two weeks to finish my thesis, which involves
+a ton of data analysis," then you will find yourself learning R alarmingly fast.
 
 #### **Evernote**
 
