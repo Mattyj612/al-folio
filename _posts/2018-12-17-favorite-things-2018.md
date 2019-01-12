@@ -19,9 +19,11 @@ directory: /assets/img/favorite-2018
 7\. <a href="#Standup">Standup Comedy Specials</a><br>
 8\. <a href="#Misc">Miscellaneous</a>
 
-<div id="Books" markdown="1">
-
-## Books
+<!-- <div id="Books" class="section" markdown="1"> -->
+<div style="position:relative">
+  <a id="Books" class="anchor"></a>
+  <h2>Books</h2>
+</div>
 
 I read <a href="https://www.goodreads.com/mattyj612" target="_blank"> 42 books this year! </a>
 Audiobooks have totally changed my life. In undergrad, I never read for pleasure during the
@@ -330,11 +332,10 @@ up to the Enlightenment is unimpeachable and eloquent as heck.
 
 <img class="book" src="{{ page.directory }}/bossypants.jpg" title="bossypants">
 
+<div style="position:relative">
+  <a id="Albums" class="anchor"></a>
+  <h2>Albums</h2>
 </div>
-
-<div id="Albums" markdown="1">
-
-## Albums
 
 <img class="album" src="{{ page.directory }}/vulfpeck.jpg" title="hill climber">
 1\. Vulfpeck &ndash; Hill Climber
@@ -374,11 +375,11 @@ up to the Enlightenment is unimpeachable and eloquent as heck.
 <img class="album" src="{{ page.directory }}/dirty_computer.jpg" title="dirty computer">
 12\. Janelle Monae &ndash; Dirty Computer
 
+
+<div style="position:relative">
+  <a id="Songs" class="anchor"></a>
+  <h2>Songs</h2>
 </div>
-
-<div id="Songs" markdown="1">
-
-## Songs
 
 Some songs I truly loved-loved (like, make-faces-alone-in-front-of-the-mirror-level
 love) this year were:
@@ -435,11 +436,10 @@ Spotify playlist. Enjoy!
   <li> Vulfpeck &ndash; Soft Parade </li>
 </ul> -->
 
+<div style="position:relative">
+  <a id="TV" class="anchor"></a>
+  <h2>TV Shows (Watched in 2018)</h2>
 </div>
-
-<div id="TV" markdown="1">
-
-## TV Shows (watched in 2018)
 
 * The Good Place
 * Atlanta: Robbin' Season
@@ -449,11 +449,11 @@ Spotify playlist. Enjoy!
 * American Crime Story: OJ Simpson
 * Fawlty Towers
 
+
+<div style="position:relative">
+  <a id="Movies" class="anchor"></a>
+  <h2>Movies</h2>
 </div>
-
-<div id="Movies" markdown="1">
-
-## Movies
 
 1. Spiderman: Into The Spider-Verse
 2. Black Panther
@@ -463,9 +463,10 @@ Spotify playlist. Enjoy!
 
 </div>
 
-<div id="Podcasts" markdown="1">
-
-## Podcasts
+<div style="position:relative">
+  <a id="Podcasts" class="anchor"></a>
+  <h2>Podcasts</h2>
+</div>
 
 #### **Waking Up With Sam Harris**
 
@@ -529,11 +530,10 @@ worth listening to simply to marvel at Tyler's preparation for the interviews. H
 reads everything his guest has ever written, from their current op-eds to their
 undergraduate theses, and never misses a beat. It's an sight (sound) to behold (hear).
 
+<div style="position:relative">
+  <a id="Standup" class="anchor"></a>
+  <h2>Stand-Up Comedy Specials</h2>
 </div>
-
-<div id="Standup" markdown="1">
-
-## Stand-Up Comedy Specials
 
 <ul>
   <li> Fred Armisen &ndash; Standup for Drummers </li>
@@ -543,11 +543,10 @@ undergraduate theses, and never misses a beat. It's an sight (sound) to behold (
   <li> John Mulaney &ndash; Kid Gorgeous </li>
 </ul>
 
+<div style="position:relative">
+  <a id="Misc" class="anchor"></a>
+  <h2>Miscellaneous</h2>
 </div>
-
-<div id="Misc" markdown="1">
-
-## Miscellaneous
 
 #### **San Francisco**
 
@@ -624,5 +623,3 @@ between Steven Pinker and John McWhorter
 Why Some Environmentalists Hate Captain Planet</a>
 * This <a href="https://www.youtube.com/watch?v=YjFWiMJdotM" target="_blank">funny and cogent case</a>
 for nuclear energy on Dutch TV
-
-</div>
