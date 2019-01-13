@@ -71,7 +71,7 @@ its assumptions would dramatically alter its predictions. Good Explanations have
 see. General relativity and quantum mechanics allow us to reason about black holes
 and the big bang, while natural selection allows us to think about extinct species
 from millions of years ago. Explanations improve by conjecture and refutation: when
-a new theory is proposed, we can use evidence to knock it down&emdash;whichever theory
+a new theory is proposed, we can use evidence to knock it down&mdash;whichever theory
 withstands the most criticism is our best guess at the truth, until something better
 comes along. The search for good explanations is never over, since there will always
 be new scientific problems to solve. Solutions to problems give rise to new problems,
