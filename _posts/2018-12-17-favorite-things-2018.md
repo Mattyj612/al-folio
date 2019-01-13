@@ -17,7 +17,7 @@ directory: /assets/img/favorite-2018
 5\. <a href="#Movies">Movies</a><br>
 6\. <a href="#Podcasts">Podcasts</a><br>
 7\. <a href="#Standup">Standup Comedy Specials</a><br>
-8\. <a href="#Misc">Miscellaneous</a>
+8\. <a href="#Misc">Miscellaneous Reflections</a>
 
 <div style="position:relative">
   <a id="Books" class="anchor"></a>
@@ -313,7 +313,7 @@ than any other historian I've ever read. The descriptions of the more modern the
 are a bit sketchier, but that's to be expected from a book written in 1924. But everything
 up to the Enlightenment is unimpeachable and eloquent as heck.
 
-#### **When Breath Becomes Air by Paul Kalanithi (2016)**
+#### **Paul Kalanithi &ndash; When Breath Becomes Air (2016)**
 
 <img class="book" src="{{ page.directory }}/kalanithi.jpg" title="when breath becomes air">
 
@@ -328,7 +328,7 @@ fact that he'll never be able to achieve those goals. Hearing Paul Kalanithi wor
 through his end-of-life priorities makes you want to get your life goals into focus
 right away. (And yet here I am, on a schedule of 10 minutes work, 4 hours music on repeat)
 
-#### **Ta-Nehisi Coates &ndash; We Were Eight Years In Power**
+#### **Ta-Nehisi Coates &ndash; We Were Eight Years In Power (2017)**
 
 <img class="book" src="{{ page.directory }}/coates.jpg" title="we were eight years in power">
 
@@ -480,6 +480,14 @@ Spotify playlist. Enjoy!
 * American Crime Story: OJ Simpson
 * Fawlty Towers
 
+My fellow Canadians (& Americans). Many of us grow up blatantly unaware of a great
+deal of British television, but I implore you: watch Fawlty Towers. Twelve impeccable,
+front-to-back brilliant episodes that consistently left me chuckling for hours afterwards.
+
+<div class="center">
+  <img src="{{ page.directory }}/fawlty.jpg" title="fawlty towers" width="50%" height="50%">
+</div>
+
 
 <div style="position:relative">
   <a id="Movies" class="anchor"></a>
@@ -492,6 +500,8 @@ Spotify playlist. Enjoy!
 4. A Star Is Born
 5. Vice
 
+<div class="center">
+  <img src="{{ page.directory }}/spiderverse.jpg" title="spiderverse" width="70%" height="70%">
 </div>
 
 <div style="position:relative">
@@ -533,7 +543,7 @@ day jobs, and for existing in wealthy, lavish echo chambers.
 #### **The Bill Simmons Podcast**
 * How I keep up with American sports in an inconvenient time zone. I especially enjoyed
 Bill's converstaions with Kevin Durant, and his debate with Juliet Litman on the
-<a href="http://besttv.theringer.com/" target="_blank"> 100 greatest TV episodes of the century</a>
+<a href="http://besttv.theringer.com/" target="_blank"> 100 greatest TV episodes of the century.</a>
 
 #### **Caliphate**
 * A ten-episode series from New York Times reporter Rukmini Callimachi on how
@@ -574,12 +584,22 @@ undergraduate theses, and never misses a beat. It's an sight (sound) to behold (
   <li> John Mulaney &ndash; Kid Gorgeous </li>
 </ul>
 
+My favorite joke from all of these is probably this one from Ellen:
+
+<div class="center">
+  <img src="{{ page.directory }}/ellen.jpg" title="ellen" width="40%" height="40%">
+</div>
+
 <div style="position:relative">
   <a id="Misc" class="anchor"></a>
-  <h2>Miscellaneous</h2>
+  <h2>Miscellaneous Reflections</h2>
 </div>
 
 #### **San Francisco**
+
+<div class="center">
+  <img src="{{ page.directory }}/stanford.jpg" title="stanford" height="65%" width="65%">
+</div>
 
 This year, I visited San Francisco for the first time, to participate in a pretty sweet
 retreat called <a href="joininteract.com" target="_blank">Interact</a>. Here's a
@@ -591,7 +611,7 @@ mathematical resource ever, and met some other ultra-impressive people while vis
 <a href="http://topos.house" target="_blank">houses</a> that have
 <a href="https://archive.house/" target="_blank">websites.</a>
 
-A few months later, I return to San Francisco for yet another retreat, this time with
+A few months later, I returned to San Francisco for yet another retreat, this time with
 basically every Silicon Valley person I follow on Twitter convened in one place to talk
 about improving the world 'n' stuff. It was fun and fascinating, but simultaneously kind
 of alarming. The Silicon Valley ilk have a very well-defined lens on the world. They
@@ -610,7 +630,30 @@ The most important thing, though, I took out of my trips to San Francisco was...
 
 #### **Avalon**
 
+<div class="center">
+  <img src="{{ page.directory }}/avalon.jpg" title="avalon" height="55%" width="55%">
+</div>
+
+Avalon is without a doubt the best board game I've ever played. Within minutes of gameplay,
+knowledge and strategy turn into meta-meta-knowledge and meta-meta-strategy.
+The rules are simple: some people at the table are good, and some are bad. The bad
+people all know who each other are, and the good people generally don't. People
+take turns around the table proposing teams; the bad people need to sneak their way
+onto teams, and the good people need to find each other and ban together to prevent
+bad people from getting onto teams and bringing them down. Some good people have privileged
+information: one knows who all but one of the bad people are; another knows who
+that privileged good person is. Neither can reveal their identity, at risk of being
+found out, leading to an automatic victory for the bad team.
+
+Simple in principle, diabolical in practice. Everyone at the table is trying to simultaneously
+convince everyone else that they're good, cast doubt on other players, and figure out
+everyone else's identity.
+
 #### **Programming in R**
+
+<div class="center">
+  <img src="{{ page.directory }}/tidyverse.jpg" title="tidyverse" height="50%" width="50%">
+</div>
 
 I chose to use R for my thesis, which was a data science-heavy project on whether
 tweets with moral and emotional language were more likely to be retweeted. (Here's
@@ -627,17 +670,21 @@ blast and a half!
 I learned two important lessons from my thesis. First: when learning to code---or
 when learning any tricky skill, really---the most important thing is continuous feedback.
 You should be constantly sharing your work, and if you're stuck for more than 10 minutes,
-ask an expert for help. 9%% of the time, the thing you're stuck on is silly or a
+ask an expert for help. 95% of the time, the thing you're stuck on is silly or a
 strange matter of convention, and 90% of the time you'll figure out the answer before
 your expert even has time to respond. My personal expert is my friend <a href="https://twitter.com/davidklaing" target="_blank">David</a>, who is a data scientist and who was unbelievably generous
 with his help. It allowed me to get up to speed in R super, super quickly.
 
 The second lesson is that it's hella hard to improve at anything without a specific
-problem to solve. If your goal is "I want to learn R," you won't find yourself making.
+problem to solve. If your goal is "I want to learn R," you won't find yourself making
 much progress. But if your goal is "I have two weeks to finish my thesis, which involves
 a ton of data analysis," then you will find yourself learning R alarmingly fast.
 
 #### **Evernote**
+
+<div class="center">
+  <img src="{{ page.directory }}/evernote.jpg" title="evernote" height="35%" width="35%">
+</div>
 
 I've now moved all of my note-taking and information storage to Evernote, and
 it's phenomenal. Whenever I watch a good YouTube video, read a good article,
@@ -649,13 +696,93 @@ Word documents.
 
 #### **Edinburgh Fringe Festival**
 
+<div class="center">
+  <img src="{{ page.directory }}/imps.jpg" title="oxford imps" height="60%" width="60%">
+</div>
+
+This summer I travelled to the Edinburgh Fringe Festival to perform improv with the
+Oxford Imps. The Fringe is absolutely wildt. There are some 4,000 shows in the
+whole festival. At any given moment, there are hundreds of things you can go see.
+It's overwhelming, but so, so fun. There many highlights to name, but two take-aways
+were Mat Ewins, who used technology on stage in a way I'd never seen before (<a href="https://www.youtube.com/watch?v=i9l3YJURNNI" target="_blank">this is a small sample</a> that's maybe 10% as cool as his one-hour show),
+and *The Piece*, an avant-garde experiential theater piece that was a parody of avant-garde
+experiential theater pieces.
+
+My favorite joke of the festival came courtesy of fellow Imp-turned-professional-standup-comedian
+<a href="http://www.christurnercomedy.com/" target="_blank">Chris Turner</a>:
+<blockquote>
+Never apologize! Never explain!...Sorry, that's my motto.
+</blockquote>
+
+
 #### **Veganism**
+
+<div class="center">
+  <img src="{{ page.directory }}/vegan1.jpg" title="vegan" height="55%" width="55%">
+</div>
+
+Last year I wrote about vegetarianism, but this year I've taken it to the next level.
+I've basically cut out dairy, except for the occasional cheese binge, and have not
+bought eggs in over a year. This was really only possible because I finally learned
+how to cook, and knowing what to do with vegetables makes it much easier to eat them
+for every meal. I think being dogmatically vegan, like being dogmatically most things,
+is not a good idea, but even a small step in that direction is an ethical and healthy
+move.
+
+
+<div class="center">
+  <img src="{{ page.directory }}/vegan2.jpg" title="vegan" height="45%" width="45%">
+</div>
 
 #### **Emailing Your Heroes**
 
-### Vulfpeck
+<div class="center">
+  <img src="{{ page.directory }}/hofstadter.jpg" title="douglas hofstadter" height="50%" width="50%">
+</div>
 
-### Other Random Things I Like
+For the past few years, I have been using the phrase "email your heroes" to encourage
+people to reach out to people they admire and express their appreciation and gratitude.
+But recently that idea has evolved for me. It's no longer about emailing just your
+heroes. Email everybody! Enjoyed a book? Email the author! Stumble upon a little-known
+artist? Tweet them your appreciation! Read a great scientific paper? Thank the authors!
+People who make art, music, literature, and science are are often doing thankless work,
+and they will be enthralled to hear from you.
+
+Here are some examples; let me know if you do the same, and if you get any replies!
+
+<div class="center">
+  <img src="{{ page.directory }}/grover_gardner.png" title="grover gardner email" width="700px">
+</div>
+
+<br>
+
+<div class="center">
+  <img src="{{ page.directory }}/udhr.png" title="johannes morsink email" width="700px">
+</div>
+
+<br>
+
+<div class="center">
+  <img src="{{ page.directory }}/aaron_taylor.png" title="aaron taylor email" width="700px">
+</div>
+
+
+
+#### **Vulfpeck**
+
+Where to even begin. They're the greatest. They're the flipping best.
+
+I had the ridiculous privilege of performing with them again, this time in London,
+and it was a thrill. <a href="https://www.instagram.com/p/BowOLttlEDD/?utm_source=ig_web_button_share_sheet" target="_blank">I wrote a little thing about it on Instagram.</a>
+
+More importantly, though, they did this.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zVyEPAMpwDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I kid you not, after I watched the live stram that featured this performance, I was
+unable to move for 2 hours.
+
+#### **Other Random Things I Liked**
 * Alexandria Ocasio-Cortez's <a href="https://twitter.com/aoc" target="_blank">tweets</a>
 * <a href="https://www.youtube.com/watch?v=NeHW0MJSxMs" target="_blank">This conversation</a>
 between Steven Pinker and John McWhorter
@@ -665,5 +792,14 @@ between Steven Pinker and John McWhorter
 <a href="https://www.youtube.com/watch?v=D85XmPvh0DA" target="_blank">Bu-T of Hu-T</a>
 * This Vlogbrothers video: <a href="https://www.youtube.com/watch?v=z1fJChrJniU" target="_blank">
 Why Some Environmentalists Hate Captain Planet</a>
+* This article from the prolific and astoundingly brilliant Slate Star Codex on two ways
+of viewing problems: <a href="https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/" target="_blank">Conflict vs. Mistake</a>
 * This <a href="https://www.youtube.com/watch?v=YjFWiMJdotM" target="_blank">funny and cogent case</a>
 for nuclear energy on Dutch TV
+* This New Yorker article: <a href="https://www.newyorker.com/magazine/2018/02/05/what-does-it-mean-to-die" target="_blank">What Does It Mean To Die?</a>
+* <a href="https://medium.com/s/trustissues/the-lifespan-of-a-lie-d869212b1f62" target="_blank">This blog post</a> on why the Stanford Prison Experiment was a total sham
+
+<br>
+
+A post of this length is bound to have plenty of errors! Please let me know if you spot any.
+And thank you so much for reading to the end!
