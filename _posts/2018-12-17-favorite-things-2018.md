@@ -128,6 +128,8 @@ reflection on bioethics.
 
 #### **4\. Will & Ariel Durant &ndash; The Lessons of History (1968)**
 
+<img class="book" src="{{ page.directory }}/lessons_of_history.jpg" title="lessons of history">
+
 Two historians reflect on a lifetime of studying the past. The lessons of 100
 centuries distilled into 100 pages. Every paragraph is bursting with aphorisms,
 many of which are dated, but all of which are insightful.
@@ -315,21 +317,51 @@ up to the Enlightenment is unimpeachable and eloquent as heck.
 
 <img class="book" src="{{ page.directory }}/kalanithi.jpg" title="when breath becomes air">
 
+This joined *Being Mortal* in my "books about death" phase earlier this year (don't ask).
+*When Breath Becomes Air* is the autobiography of Paul Kalanithi, an ultra-ambitious
+and pretty brilliant neurosurgeon/neuroscientist who was diagnosed with lung cancer
+near the end of his residency/postdoc at Stanford. The book is sad as hell, but
+I loved it because it gave me a front-row seat to world I will never see from the inside:
+dissecting a cadaver, operating on a hippocampus, telling a patient they will die. It
+was also harrowing to see someone with such huge plans for his life grapple with the
+fact that he'll never be able to achieve those goals. Hearing Paul Kalanithi work
+through his end-of-life priorities makes you want to get your life goals into focus
+right away. (And yet here I am, on a schedule of 10 minutes work, 4 hours music on repeat)
+
 #### **Ta-Nehisi Coates &ndash; We Were Eight Years In Power**
 
 <img class="book" src="{{ page.directory }}/coates.jpg" title="we were eight years in power">
 
-#### **Phil Knight &ndash; Shoe Dog (2016)**
-
-<img class="book" src="{{ page.directory }}/shoe_dog.jpg" title="shoe dog">
+What I love most about Ta-Nehisi Coates is that his essays are always rooted in history.
+Everything is tied back to the colonizing of the Americas, or the Revolutionary War, or the
+Civil War, or Jim Crow, or redlining, or segregation. He expertly picks apart how racism
+can manifest itself. Most interesting to me is how specific racist policies from the
+past can lead to vastly unequal outcomes in the present, even if, hypothetically, there
+were no present-day racists (which, to be sure, is preposterous). Even if you've read
+all of Coates' Atlantic articles already, it's worth reading *We Were Eight Years in Power*
+to see them all in a coherent narrative.
 
 #### **Ashlee Vance &ndash; Elon Musk (2015)**
 
 <img class="book" src="{{ page.directory }}/elon.jpg" title="elon musk">
 
+Here's something I agree with Peter Thiel on: the last couple decades have seen
+amazing advances in the world of bits (software, the internet, social media, AI),
+but not nearly enough advance in the world of physical stuff. Say what you will
+about Elon Musk: he's the only person ridiculous enough to make self-driving
+and/or electric-powered cars a reality---both a huge boon for humans, like, being
+alive more---and take the coolest thing our species does (space travel) to the
+next level. Pretty freaking cool.
+
 #### **Tina Fey &ndash; Bossypants (2011)**
 
 <img class="book" src="{{ page.directory }}/bossypants.jpg" title="bossypants">
+
+I re-read *Bossypants* as part of my "women comedians' memoirs" binge at the start
+of 2018. Out of all of the ones I read---Amy Poehler's, Amy Schumer's, both of Mindy Kaling's,
+Anna Kendrick's---Tina Fey's is by far the best. The narration is phenomenal and the
+jokes are plentiful (as a warning in the preface: "I use all kinds of elitist words
+like 'impervious' and 'gerund'").
 
 <div style="position:relative">
   <a id="Albums" class="anchor"></a>
