@@ -514,7 +514,7 @@ front-to-back brilliant episodes that consistently left me chuckling for hours a
 Still my favorite podcast, even though I find myself increasingly taking issue with
 many of Sam's views. A couple of my favorite episodes were:
 
-* Is #MeToo Going To Far (with Rebecca Traister)
+* Is #MeToo Going Too Far (with Rebecca Traister)
   - Traister challenges and engages with Sam in a super productive way, and models how
   to be persuasive and assertive without a hint of contempt. Sam is also uncharacteristically
   charitable, which makes for a great discussion.
@@ -620,7 +620,7 @@ moved to a new techno-utopic-libertarian-optimistic box. That's not a bad thing,
 per se, and I often enjoy being in that box myself, but it would be silly not to
 acknowledge the homogenizing force of the Bay Area. More people probably need to
 jump between Oxford (critical, slow-moving, big fan of institutions) and the
-Bay Area (quick-paced, market-motivated, skeptical of institutions), to lean that
+Bay Area (quick-paced, market-motivated, skeptical of institutions), to learn that
 two bubbles of ultra-smart, ultra-driven people can have wildly different cultures
 and lenses on the world. For what it's worth, I like both a great deal, and probably
 like San Francisco more, but could never live in a place with such a well-defined
@@ -779,7 +779,7 @@ More importantly, though, they did this.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zVyEPAMpwDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I kid you not, after I watched the live stram that featured this performance, I was
+I kid you not, after I watched the live-stream that featured this performance, I was
 unable to move for 2 hours.
 
 #### **Other Random Things I Liked**
