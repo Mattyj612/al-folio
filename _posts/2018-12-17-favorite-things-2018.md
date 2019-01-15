@@ -368,7 +368,7 @@ like 'impervious' and 'gerund'").
   <h2>Albums</h2>
 </div>
 
-<img class="album" src="{{ page.directory }}/vulfpeck.jpg" title="hill climber">
+<img class="album" src="{{ page.directory }}/hill_climber.jpg" title="hill climber">
 1\. Vulfpeck &ndash; Hill Climber
 
 <img class="album" src="{{ page.directory }}/lawrence.jpg" title="living room">
@@ -496,9 +496,9 @@ front-to-back brilliant episodes that consistently left me chuckling for hours a
 
 1. Spiderman: Into The Spider-Verse
 2. Black Panther
-3. Blakkklansman
-4. A Star Is Born
-5. Vice
+3. A Star Is Born
+4. Vice
+5. 5. Blakkklansman
 
 <div class="center">
   <img src="{{ page.directory }}/spiderverse.jpg" title="spiderverse" width="70%" height="70%">
