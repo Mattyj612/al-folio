@@ -15,15 +15,14 @@ profile:
 news: false
 social: true
 ---
+I study the history and science of thought, to understand how the heck anyone ever
+figured anything out. I am currently designing and teaching two courses at McMaster University:
+an introduction to the history of science, and an overview of the social issues surrounding
+artificial intelligence. I've done research on <a href="https://osf.io/cvw8s/" target="_blank">moral
+psychology on Twitter</a>, and worked with NYU's <a href="https://www.labdevelopingmind.com" target="_blank">
+Lab for the Developing Mind</a> to study the nature of geometric intutions. I am
+also producing a 10-episode podcast on the making of the atomic bomb. I spend the rest of my
+time doing improv comedy, zooming through audiobooks, watching basketball, and playing (quite poor) chess.
 
-I study the history and science of human thought, to understand how the heck
-anyone ever figured anything out. I'm completing a Master's in the history of
-science at Oxford, researching AI in the '50s-'70s. I have an
-<a href="https://osf.io/cvw8s/" target="_blank">MSc in experimental
-psychology</a> from Oxford, and I previously studied math & physics in McMaster University's
-ultra-interdisciplinary Arts & Science program. I also help run experiments that
-probe the nature of geometric intuitions at at NYU's
-<a href="https://www.labdevelopingmind.com" target="_blank"> Lab for the Developing Mind</a>.
-My goal in life is to read widely, learn deeply, and share ideas clearly.
 
 <!-- $$\displaystyle\oint_C \mathbf{F}\cdot \mathbf{dr} = \iint_S (\nabla \times \mathbf{F}) \cdot \mathbf{dA}$$ -->
