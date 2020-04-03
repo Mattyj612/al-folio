@@ -37,8 +37,8 @@ blog_description: Clean, clear, and under control since '94
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+permalink: /posts/:year/:title/
+paginate_path: /posts/page:num/
 
 text:
   pagination:

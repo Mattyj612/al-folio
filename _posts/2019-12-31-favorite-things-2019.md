@@ -3,7 +3,7 @@ layout: post
 title: My Favorite Things of 2019
 date: 2019-12-31 11:47:00-0400
 description: My favorite shows, albums, and more of 2018, plus some reflections on life in the UK
-published: true
+published: false
 image: favorite-2018/w1a.jpg
 directory: /assets/img/favorite-2019
 ---
